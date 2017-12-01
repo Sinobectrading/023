@@ -9,31 +9,56 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<h1><a class="navbar-brand" href="index.php"> <span>SINOBEC</span>Trading</a></h1>
+				<h1>
+					<a class="navbar-brand" href="/023/en/index.php"><img src="../images/logo_50.png" alt=""><span>Sinobectrading</span></a>
+				</h1>
 
 			</div>
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
 				<nav class="link-effect-2" id="link-effect-2">
 					<ul class="nav navbar-nav">
-						<li class="active"><a href="index.php" class="effect-3">Home</a></li>
-						<li><a href="about.php" class="effect-3">About</a></li>
-						<li class="dropdown">
+						<li 
+						<?php if (trim($_SERVER['PHP_SELF']) == "/023/en/index.php") {
+                              echo 'class="active"';} ?>
+						><a href="index.php" class="effect-3">Home</a></li>
+						<li
+						<?php if (trim($_SERVER['PHP_SELF']) == "/023/en/about.php") {
+                              echo 'class="active"';} ?>
+						><a href="about.php" class="effect-3">About</a></li>
+						<!-- <li class="dropdown">
 							<a href="#" class="dropdown-toggle effect-3" data-toggle="dropdown">Services <b class="caret"></b></a>
 							<ul class="dropdown-menu agile_short_dropdown">
 								<li><a href="services.php">It Solutions</a></li>
 								<li><a href="services1.php">Event Management</a></li>
 							</ul>
-						</li>
-						<li><a href="blog.php" class="effect-3">Blog</a></li>
-						<li class="dropdown">
+						</li> -->
+						<li
+						<?php if (trim($_SERVER['PHP_SELF']) == "/023/en/products.php") {
+                              echo 'class="active"';} ?>
+						><a href="products.php" class="effect-3">Products</a></li>
+						<!-- <li class="dropdown">
 							<a href="#" class="dropdown-toggle effect-3" data-toggle="dropdown">Short Codes <b class="caret"></b></a>
 							<ul class="dropdown-menu agile_short_dropdown">
 								<li><a href="icons.php">Web Icons</a></li>
 								<li><a href="typography.php">Typography</a></li>
 							</ul>
+						</li> -->
+						<li
+						<?php if (trim($_SERVER['PHP_SELF']) == "/023/en/service.php") {
+                              echo 'class="active"';} ?>
+						><a href="service.php" class="effect-3">Service</a></li>
+						<li
+						<?php if (trim($_SERVER['PHP_SELF']) == "/023/en/contact.php") {
+                              echo 'class="active"';} ?>
+						><a href="contact.php" class="effect-3">Contact Us</a></li>
+						<li class="language active">
+							 <a  href="/023/en/<?php echo basename($_SERVER['PHP_SELF']); ?>">EN</a> 
+							  
 						</li>
-						<li><a href="mail.php" class="effect-3">Contact Us</a></li>
+						<li class="language">
+							<a class="fr" href="/023/fr/<?php echo basename($_SERVER['PHP_SELF']); ?>">FR</a>
+						</li>
 					</ul>
 				</nav>
 			</div>

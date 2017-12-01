@@ -298,7 +298,14 @@ a.w3l_header_contact_details_agile-info_inner,
     padding: 1.6em 0em;
     text-transform: uppercase;
 }
-
+.navbar-nav>li.language>a {
+    margin: 0;
+    padding: 0 1.2em;
+    margin-top: 20px
+}
+.navbar-nav>li.language>a.fr{
+    border-left: 1px solid #fff
+}
 .navbar-default .navbar-nav>li>a:hover {
     color: #1cd8c9;
 }
@@ -960,6 +967,9 @@ h3.agile_tittle span {
 .agile_wthree_inner_grids {
     margin-top: 4em;
 }
+#contactpage .agile_wthree_inner_grids {
+    margin-top: 0em;
+}
 
 .agileits-button.two a,
 .agileits-button a {
@@ -1481,7 +1491,7 @@ p.sub_cap {
 }
 
 .contact-form.agile_inner_grids {
-    padding: 5em 0em 0 0;
+    padding: 0;
 }
 
 .contact-form h4 {
@@ -1491,19 +1501,38 @@ p.sub_cap {
     text-transform: uppercase;
     position: relative;
     font-weight: 800;
-    margin: 0 0 2em 0;
-    text-align: center;
+    margin: 0 0 1em 0;
+    text-align: left
 }
 
-.contact-form h4:after {
-    border-top: 2px solid #efb312;
-    display: block;
-    width: 81px;
-    content: "";
-    margin: 8px auto 0;
+.contact-form h5 {
+    font-size: 1.6em;
+    color: #262c38;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    position: relative;
+    font-weight: 500;
+    margin: 0 0 1em 0;
+    text-align: left
 }
 
-.contact-form h4 span {
+ /*/// contact ///*/
+.addr {
+    margin: 40px auto;
+    text-align: left
+}
+.addr > div {
+    padding-left: 0px
+}
+.addr ul {
+    padding-left: 1em;
+    line-height: 2
+}
+.addr ul li {
+    ;list-style: none;
+}
+.contact-form h4 span,
+ .contact-form h5 span{
     color: #1cd8c9;
 }
 
