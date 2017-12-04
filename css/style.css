@@ -253,6 +253,15 @@ a.w3l_header_contact_details_agile-info_inner,
     line-height: 15px;
     font-size: 12px
 }
+.agileits_w3layouts_banner_nav.shrink .navbar-default .navbar-nav>li.language>a {
+    margin-top: 18px;
+    padding-top: 0px;
+    padding-right: 8px;
+}
+.agileits_w3layouts_banner_nav.shrink .navbar-default .navbar-nav>li.language.active>a {
+    color: #1cd8c9;
+    font-weight: 900;
+}
 /*-- nav --*/
 
 .navbar-default {

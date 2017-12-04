@@ -36,11 +36,6 @@
   content: "";
   background: rgba(255, 255, 255, 0.07);
 }
-@media only screen and (max-width: 767px) {
-  .timeline:before {
-    left: 40px;
-  }
-}
 .timeline-item {
   padding: 40px 0;
   opacity: .3;
@@ -93,24 +88,14 @@
 .timeline-item--active .timeline__content-title {
   margin: -50px 0 20px 0;
 }
-@media only screen and (max-width: 767px) {
-  .timeline-item {
-    align-self: baseline !important;
-    width: 100%;
-    padding: 0 30px 150px 80px;
-  }
-  .timeline-item:before {
-    left: 10px !important;
-    padding: 0 !important;
-    top: 50px;
-    text-align: center !important;
-    width: 60px;
-    border: none !important;
-  }
-  .timeline-item:last-child {
-    padding-bottom: 40px;
-  }
-}
+
+
+
+
+
+
+
+
 .timeline__img {
   max-width: 100%;
   box-shadow: 0 10px 15px rgba(0, 0, 0, 0.4);
@@ -163,5 +148,94 @@
   display: inline-block;
   font-family: Cardo;
 }
+
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+  .timeline:before {
+    left: 40px;
+}
+    .timeline-item {
+    align-self: baseline !important;
+    width: 100%;
+    padding: 0 30px 150px 80px;
+    }
+    .timeline-item:before {
+    left: 10px !important;
+    padding: 0 !important;
+    top: 50px;
+    text-align: center !important;
+    width: 60px;
+    border: none !important;
+    }
+    .timeline-item:last-child {
+    padding-bottom: 40px;
+    }
+
+}
+
+
+
+
+@media only screen and (min-width: 768px)  and (max-width: 900px) {
+#home .navbar-brand span {
+  font-size: 14px
+}
+.navbar-default .navbar-nav>li>a {
+  font-size: 10px
+}
+.navbar-header.navbar-left {
+  margin-top: 0px
+}
+.navbar-brand > img {
+  width: 20%;
+  padding-top: 10px
+}
+.agileits_w3layouts_banner_nav.shrink .navbar-default .navbar-nav>li>a {
+    
+    font-size: 10px
+}
+.agileits_w3layouts_banner_nav.shrink .navbar-default .navbar-nav>li.language>a {
+     font-size: 10px;
+     margin-top: 15px;
+}
+
+
+
+}
+
+
+
+
+@media only screen and (min-width: 901px)  and (max-width: 1150px) {
+#home .navbar-brand span {
+  font-size: 18px
+}
+.navbar-default .navbar-nav>li>a {
+  font-size: 12px
+}
+.navbar-header.navbar-left {
+  margin-top: 3px
+}
+.navbar-brand > img {
+  width: 20%;
+  padding-top: 10px
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+ 
 
 
