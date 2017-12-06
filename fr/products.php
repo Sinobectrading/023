@@ -12,23 +12,23 @@
 	<div class="agile_inner_breadcrumb">
 
 		<ul class="w3_short">
-			<li><a href="index.php">Home</a><span>|</span></li>
-			<li>Products</li>
+			<li><a href="index.php">Accueil</a><span>|</span></li>
+			<li>Produts</li>
 		</ul>
 	</div>
 </div>
 <div id="team" class="team featured_services">
 	<div class="container">
 		<div class="wthree_head_section">
-			<h3 class="w3l_header w3_agileits_header">What <span>Have</span></h3>
+			<h3 class="w3l_header w3_agileits_header">Ce Que <span> Nous Avons</span></h3>
 		</div>
 		<div class="agile_wthree_inner_grids">
 			<div id="horizontalTab">
 				<ul class="resp-tabs-list">
-					<li><i class="fa fa-search" aria-hidden="true"></i>Aluminum raw material</li>
-					<li><i class="fa fa-pencil" aria-hidden="true"></i>Aluminum mid material</li>
-					<li><i class="fa fa-line-chart" aria-hidden="true"></i>Stainless steel</li>
-					<li><i class="fa fa-shield" aria-hidden="true"></i>Finished products</li>
+					<li><i class="fa fa-search" aria-hidden="true"></i>Matière première d'aluminium</li>
+					<li><i class="fa fa-pencil" aria-hidden="true"></i>Matériau intermédiaire en aluminium</li>
+					<li><i class="fa fa-line-chart" aria-hidden="true"></i>Acier inoxydable</li>
+					<li><i class="fa fa-shield" aria-hidden="true"></i>Produits finis</li>
 				</ul>
 				<div class="resp-tabs-container">
 
@@ -37,11 +37,11 @@
 							<img src="../images/g1.jpg" alt="img">
 						</div>
 						<div class="col-md-6 tab-info">
-							<h4>Billet and Ingot </h4>
-							<p>Billet and ingot: Ingots is the raw material for aluminum plates and sheets. Billets are the raw material for aluminum extrusions. Sinobec are working with their strategy partners providing high quality billet and ingot for aluminum extrusion and plates manufacturers. Hence Sinobec gain more control on cost and quality of mid and downstream products.</p>
+							<h4>Billette et lingot</h4>
+							<p>Billette et lingot: Les lingots sont la matière première pour les plaques et les plaques d'aluminium. Les billettes sont la matière première pour les extrusions d'aluminium. Sinobec travaille avec ses partenaires stratégiques pour fournir des billettes et des lingots de haute qualité aux fabricants d'extrusions d'aluminium et de plaques. Par conséquent, Sinobec contrôle davantage le coût et la qualité des produits intermédiaires et en aval.</p>
 						</div>
 						<div class="agileits-button two">
-							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Read More »</a>
+							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Lire la suite »</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -49,19 +49,17 @@
 					<div class="tab2">
 
 						<div class="col-md-6 tab-info">
-							<h4>Coil, sheet, plate & extrusions </h4>
-							<p>Sinobec provides both standard and customized extrusion (fabricated, painted, anodized & bright dipped). 
-							We stock a series of standard extrusions in our warehouses. By keeping standard extrusions in inventory, we provide JIT supply to our North America and Central American customers.
-							 Some of the products we carry in stock Are:
-							</p>
+							<h4>Bobine, feuille, plaque et extrusions </h4>
+							<p>Sinobec fournit une extrusion standard et personnalisée (fabriquée, peinte, anodisée et trempée brillante).
+							Nous stockons une série d'extrusions standard dans nos entrepôts. En conservant les extrusions standard dans les stocks, nous fournissons des fournitures JIT à nos clients d'Amérique du Nord et d'Amérique centrale.</p>
 							<p>
-								 Some of the products we carry in stock Are:
+							Certains des produits que nous transportons en stock sont:
 								<li>Angles; Rectangular bar; Channels; Round tubes; Square Tubes; I-beams; Pipes; Square Bars; rods </li>
 							</p>
-							<p>Furthermore, Sinobec's mills in far-east provide customized extrusions with reasonable lead time. We provide package of service, including die design, die making, logistics, customs clearance, storage and distribution.</p>
+							<p>De plus, les usines de Sinobec en Extrême-Orient fournissent des extrusions personnalisées avec un délai raisonnable. Nous fournissons le paquet de service, y compris la conception de matrice, la fabrication de matrice, la logistique, le dédouanement, le stockage et la distribution.</p>
 							</p>
 							<div class="agileits-button two">
-								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Read More »</a>
+								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Lire la suite »</a>
 							</div>
 						</div>
 						<div class="col-md-6 tab-info-img">
@@ -75,14 +73,14 @@
 							<img src="../images/g1.jpg" alt="img">
 						</div>
 						<div class="col-md-6 tab-info">
-							<h4>Coils, sheets, plates, pipes & tubes </h4>
-							<p>Sinobec distributes coils, sheets, plates, pipes & tubes in various alloys (200/300/400 series)</p>
-							<p>We stock a series of flat rolled products in our warehouses. By keeping flat rolled inventory in our warehouses, we provide JIT supply to our North America and Central American customers.
-							 Some of the products we carry in stock Are:  coils, sheets in 304 2B / 304 #4 / 316 2B / 316 #4 / 430 2B
+							<h4>CoiBobines, feuilles, plaques, tuyaux et tubesls, sheets, plates, pipes & tubes</h4>
+							<p>Sinobec distribue des bobines, des feuilles, des plaques, des tuyaux et des tubes dans divers alliages (série 200/300/400)</p>
+							<p>Nous stockons une série de produits laminés plats dans nos entrepôts. En conservant des stocks laminés à plat dans nos entrepôts, nous fournissons des fournitures JIT à nos clients d'Amérique du Nord et d'Amérique centrale.
+							Certains des produits que nous transportons en stock Sont: bobines, feuilles en 304 2B / 304 # 4/316 2B / 316 # 4/430 2B
 							</p>
 						</div>
 						<div class="agileits-button two">
-							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Read More »</a>
+							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Lire la suite »</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -94,7 +92,7 @@
 								dapibus efficitur in, auctor eget elit. Lorem ipsum dolor sit amet fusce eget erat nunc. Sed fringilla sem vitae
 								mi interdum commodo.</p>
 							<div class="agileits-button two">
-								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Read More »</a>
+								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Lire la suite »</a>
 							</div>
 						</div>
 

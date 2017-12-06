@@ -8,11 +8,11 @@
 
 <body>
 <?php include_once 'nav.php'; ?>
-<div class="services-breadcrumb" id="product">
+<div class="services-breadcrumb" id="service">
 	<div class="agile_inner_breadcrumb">
 
 		<ul class="w3_short">
-			<li><a href="index.php">Home</a><span>|</span></li>
+			<li><a href="index.php">Accueil</a><span>|</span></li>
 			<li>Service</li>
 		</ul>
 	</div>
@@ -20,15 +20,15 @@
 <div id="team" class="team featured_services">
 	<div class="container">
 		<div class="wthree_head_section">
-			<h3 class="w3l_header w3_agileits_header">Our <span>Service</span></h3>
+			<h3 class="w3l_header w3_agileits_header">Nos <span> Services</span></h3>
 		</div>
 		<div class="agile_wthree_inner_grids">
 			<div id="horizontalTab">
 				<ul class="resp-tabs-list">
-					<li><i class="fa fa-search" aria-hidden="true"></i>Metal Processing & Fabrication</li>
-					<li><i class="fa fa-pencil" aria-hidden="true"></i>Supply Chain</li>
+					<li><i class="fa fa-search" aria-hidden="true"></i>Traitement et fabrication des métaux</li>
+					<li><i class="fa fa-pencil" aria-hidden="true"></i>Chaîne d'approvisionnement</li>
 					<li><i class="fa fa-line-chart" aria-hidden="true"></i>Consultant</li>
-					<li><i class="fa fa-shield" aria-hidden="true"></i>Project and Turn Key solution</li>
+					<li><i class="fa fa-shield" aria-hidden="true"></i>Solution de projet et clé en main</li>
 				</ul>
 				<div class="resp-tabs-container">
 
@@ -38,11 +38,11 @@
 						</div>
 						<div class="col-md-6 tab-info">
 							<!-- <h4>Billet and Ingot </h4> -->
-							<p>Sinobec provide not only metal merchandise but also metal fabrication services. We offer customized metal processing and fabrication service for our valuable customers in various industries, including Aerospace, IT, Land Transportation vehicle. With our precision equipment and professional team, we increase the dollar value for your products. Sinobec successfully launched several processing projects for National joint aerospace projects between USA-China and Canada-China. 2017, Sinobec Suzhou factory started to operate and serve customer in IT industry.</p>
+							<p>Sinobec fournit non seulement des marchandises en métal mais également des services de fabrication en métal. Nous offrons un service de traitement et de fabrication de métaux sur mesure pour nos précieux clients dans diverses industries, y compris l'aérospatiale, l'informatique, les véhicules de transport terrestre. Avec notre équipement de précision et notre équipe de professionnels, nous augmentons la valeur monétaire de vos produits. Sinobec a lancé avec succès plusieurs projets de traitement pour des projets aérospatiaux nationaux entre les États-Unis-Chine et le Canada-Chine. 2017, Sinobec Suzhou usine a commencé à fonctionner et servir les clients dans l'industrie des TI.</p>
 						</div>
-						<div class="agileits-button two">
-							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Read More »</a>
-						</div>
+						<!-- <div class="agileits-button two">
+							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Lire la suite »</a>
+						</div> -->
 						<div class="clearfix"></div>
 					</div>
 
@@ -50,11 +50,11 @@
 
 						<div class="col-md-6 tab-info">
 							<!-- <h4>Coil, sheet, plate & extrusions </h4> -->
-							<p>Dedicated and tailored supply chain service to fit into your business. Diagnose your really need and solve your problem. Create value for customer with our internal SCM platform and external supply network. We provide pack of SCM service, including sourcing, purchasing, transportation, warehousing, VIM ( vendor inventory management, distribution.
+							<p>Un service de chaîne d'approvisionnement dédié et adapté à votre entreprise. Diagnostiquez votre besoin et résolvez votre problème. Créez de la valeur pour le client avec notre plate-forme SCM interne et notre réseau d'approvisionnement externe. Nous fournissons un pack de service SCM, y compris l'approvisionnement, l'achat, le transport, l'entreposage, VIM (gestion des stocks des fournisseurs, distribution.
 							</p>
-							<div class="agileits-button two">
-								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Read More »</a>
-							</div>
+							<!-- <div class="agileits-button two">
+								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Lire la suite »</a>
+							</div> -->
 						</div>
 						<div class="col-md-6 tab-info-img">
 							<img src="../images/g2.jpg" alt="img">
@@ -68,22 +68,22 @@
 						</div>
 						<div class="col-md-6 tab-info">
 							<!-- <h4>Coils, sheets, plates, pipes & tubes </h4> -->
-							<p>Professional elite technology and management team provide customers unique visions. Provide expertise; cutting edge; Guide customers to success.
+							<p>La technologie professionnelle d'élite et l'équipe de gestion fournissent aux clients des visions uniques. Fournir de l'expertise en pointe; Guider les clients vers le succès
 							</p>
 						</div>
-						<div class="agileits-button two">
-							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Read More »</a>
-						</div>
+						<!-- <div class="agileits-button two">
+							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Lire la suite »</a>
+						</div> -->
 						<div class="clearfix"></div>
 					</div>
 					<div class="tab4">
 
 						<div class="col-md-6 tab-info">
 							<!-- <h4>Lorem ipsum dolor sit amet</h4> -->
-							<p>Integrate high quality material, high notch service and professional project management. Our Cross-functional team consists of sourcing; purchasing; Our inhouse experts will provide cutting edge technology and industrial expertise, the management team will lead your business or projects to the success.</p>
-							<div class="agileits-button two">
-								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Read More »</a>
-							</div>
+							<p>Intégrez du matériel de haute qualité, un service de haute qualité et une gestion de projet professionnelle. Notre équipe interfonctionnelle consiste en l'approvisionnement; achat; Nos experts internes fourniront une technologie de pointe et une expertise industrielle, l'équipe de direction mènera votre entreprise ou vos projets à la réussite.</p>
+							<!-- <div class="agileits-button two">
+								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Lire la suite »</a>
+							</div> -->
 						</div>
 
 						<div class="col-md-6 tab-info-img">

@@ -20,7 +20,7 @@
 <div id="team" class="team featured_services">
 	<div class="container">
 		<div class="wthree_head_section">
-			<h3 class="w3l_header w3_agileits_header">What <span>Have</span></h3>
+			<h3 class="w3l_header w3_agileits_header">What <span> We Have</span></h3>
 		</div>
 		<div class="agile_wthree_inner_grids">
 			<div id="horizontalTab">

@@ -7,12 +7,12 @@
 
 <body id="contactpage">
 <?php include_once 'nav.php'; ?>
-<div class="services-breadcrumb" id="about">
+<div class="services-breadcrumb" id="contacttop">
 	<div class="agile_inner_breadcrumb">
 
 		<ul class="w3_short">
-			<li><a href="index.php">Home</a><span>|</span></li>
-			<li>Contact</li>
+			<li><a href="index.php">Accueil</a><span>|</span></li>
+			<li>Contactez nous</li>
 		</ul>
 	</div>
 </div>
@@ -26,13 +26,13 @@
 			 
 			<div class="contact-form agile_inner_grids">
 				<div class="wthree_head_section">
-					<h3 class="w3l_header w3_agileits_header">Our <span>Location </span></h3>
+					<h3 class="w3l_header w3_agileits_header">Nos <span> Emplacements</span></h3>
 				</div>
 				<div class="clearfix"> </div>
 				<div class="addr clearfix">
 					<h4>Canada</h4>
 					<div class="col-lg-6 col-xs-12">
-						<h5>Montreal <span>	HEAD OFFICE</span></h5>
+						<h5>Montréal <span>	SIÈGE SOCIAL</span></h5>
 						<ul>
 							<li>4455 Rue Cousens, St-Laurent, QC, Canada, H4S 1X5</li>
 							<li>+1 (514) 339 9333</li>
@@ -40,7 +40,7 @@
 						</ul>
 					</div>
 					<div class="col-lg-6 col-xs-12">
-						<h5>Toronto <span>	Warehouse</span></h5>
+						<h5>Toronto <span>	Entrepôt</span></h5>
 						<ul>
 							<li>Unit 2, 29 Killaloe Rd, Vaughan, Canada L4K 2A8</li>
 							<li>+1 (905) 660 8870</li>
@@ -49,17 +49,17 @@
 					</div>
 				</div>
 				<div class="addr clearfix">
-					<h4>China</h4>
+					<h4>Chine</h4>
 					<div class="col-lg-4 col-xs-12">
-						<h5>Guangzhou<span>	SALES OFFICE </span></h5>
+						<h5>Guangzhou<span>	Achat</span></h5>
 						<ul>
-							<li>Room 811, Xing Pu Building A, Guan Hong Rd 12#,Science Avenue, Science City, Guangzhou, China</li>
+							<li>811#, Xing Pu Building A, Guan Hong Rd 12#,Science Avenue, Science City, Guangzhou, China</li>
 							<li>+86 (20) 6665 0312</li>
 							<li>colinc@sinobectrading.com</li>
 						</ul>
 					</div>
 					<div class="col-lg-4 col-xs-12">
-						<h5>Xi'An <span> OPERATION</span></h5>
+						<h5>Xi'An <span> Achat</span></h5>
 						<ul>
 							<li>#1501, Block A, Wangzuo International Building, No.1 Tangyan Road, Xi'an Hi-tech Development Zone, Xi'an Shaanxi Province, China</li>
 							<li> +86 (29) 8831 1329</li>
@@ -67,7 +67,7 @@
 						</ul>
 					</div>
 					<div class="col-lg-4 col-xs-12">
-						<h5>Shanghai<span>	SALES</span></h5>
+						<h5>Shanghai<span>	Achat</span></h5>
 						<ul>
 							<!-- <li>Room 811, Xing Pu Building A, Guan Hong Rd 12#, </li>
 							<li>Science Avenue, Science City, Guangzhou, China</li> -->

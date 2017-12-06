@@ -21,11 +21,11 @@
 						<li 
 						<?php if (trim($_SERVER['PHP_SELF']) == "/023/fr/index.php") {
                               echo 'class="active"';} ?>
-						><a href="index.php" class="effect-3">Home</a></li>
+						><a href="index.php" class="effect-3">Accueil</a></li>
 						<li
 						<?php if (trim($_SERVER['PHP_SELF']) == "/023/fr/about.php") {
                               echo 'class="active"';} ?>
-						><a href="about.php" class="effect-3">About</a></li>
+						><a href="about.php" class="effect-3">À propos</a></li>
 						<!-- <li class="dropdown">
 							<a href="#" class="dropdown-toggle effect-3" data-toggle="dropdown">Services <b class="caret"></b></a>
 							<ul class="dropdown-menu agile_short_dropdown">
@@ -36,7 +36,7 @@
 						<li
 						<?php if (trim($_SERVER['PHP_SELF']) == "/023/fr/products.php") {
                               echo 'class="active"';} ?>
-						><a href="products.php" class="effect-3">Products</a></li>
+						><a href="products.php" class="effect-3">Produts</a></li>
 						<!-- <li class="dropdown">
 							<a href="#" class="dropdown-toggle effect-3" data-toggle="dropdown">Short Codes <b class="caret"></b></a>
 							<ul class="dropdown-menu agile_short_dropdown">
@@ -51,7 +51,7 @@
 						<li
 						<?php if (trim($_SERVER['PHP_SELF']) == "/023/fr/contact.php") {
                               echo 'class="active"';} ?>
-						><a href="contact.php" class="effect-3">Contact Us</a></li>
+						><a href="contact.php" class="effect-3">Contactez nous</a></li>
 						<li class="language">
 							 <a  href="/023/en/<?php echo basename($_SERVER['PHP_SELF']); ?>">EN</a> 
 							  

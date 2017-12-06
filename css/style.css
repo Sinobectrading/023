@@ -495,7 +495,10 @@ a.navbar-brand {
     position: absolute;
     z-index: 9;
     top: 40%;
-    left: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
     text-align: center;
 }
 
@@ -2863,6 +2866,26 @@ ul.w3_short {
     background-size: auto;
     background-attachment: fixed;
 }
+#service {
+     background: url(../images/service.jpg)no-repeat 0px 0px;
+    background-size: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-size: auto;
+    background-attachment: fixed;
+}
+#contacttop {
+    background: url(../images/contact.jpg)no-repeat 0px 0px;
+    background-size: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-size: auto;
+    background-attachment: fixed;
+}
 .agile_inner_breadcrumb {
     padding: 0 4em;
     margin-top: 400px;
@@ -3074,7 +3097,8 @@ span.simply-word {
     }
    .agile_banner_text_info {
         top: 40%;
-        left: 23.5%;
+        margin-right: auto;
+        margin-left: auto;
     }
     .agile_banner_text_info h3 {
         font-size: 4.5em;

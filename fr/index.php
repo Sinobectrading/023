@@ -18,14 +18,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="slider">
 		<div class="wrapper">
 			<div class="agile_banner_text_info">
-				<h3>Aluminum is our business</h3>
-				<p>The leader seller of North America</p>
+				<h3>L'ALUMINIUM EST NOTRE AFFAIRE</h3>
+				<p>Le leader des ventes en Amérique du Nord</p>
 				<div class="w3-button">
 					<div class="w3ls-button">
-						<a href="single.html" class="hvr-shutter-out-vertical">Read More</a>
+						<a href="single.html" class="hvr-shutter-out-vertical">Lire la suite</a>
 					</div>
 					<div class="w3l-button">
-						<a href="#portfolio" class="hvr-shutter-out-vertical scroll ">Portfolio</a>
+						<a href="#portfolio" class="hvr-shutter-out-vertical scroll ">Products</a>
 					</div>
 					<div class="clearfix"> </div>
 				</div>
@@ -58,8 +58,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>
 					</div>
 					<div class="col-xs-9 wthree_banner_bottom_grid_right">
-						<h4>Material Supply</h4>
-						<p>Aim to reduce customer’s total cost of ownership with competitive purchasing cost and short lead time; VMI, Consignment and provide flexibility.</p>
+						<h4>Fourniture de matériel</h4>
+						<p>Viser à réduire le coût total de possession du client avec des coûts d'achat compétitifs et des délais de livraison courts; VMI, Consignation et fournir de la flexibilité.</p>
 
 					</div>
 					<div class="clearfix"> </div>
@@ -76,9 +76,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>
 					</div>
 					<div class="col-xs-9 wthree_banner_bottom_grid_right">
-						<h4>Supply Chain Service</h4>
-						<p>Dedicated and tailored supply chain service. Diagnose your needs and enhance your supply chain.
-Create value for the customer with our internal SCM platform and external extensive supply network.</p>
+						<h4>Service de la chaîne d'approvisionnement</h4>
+						<p>Service de chaîne d'approvisionnement dédié et personnalisé. Diagnostiquez vos besoins et améliorez votre chaîne d'approvisionnement.</p>
 
 					</div>
 					<div class="clearfix"> </div>
@@ -94,8 +93,8 @@ Create value for the customer with our internal SCM platform and external extens
 						</div>
 					</div>
 					<div class="col-xs-9 wthree_banner_bottom_grid_right">
-						<h4>Consulting Service</h4>
-						<p>Professional elite technology and management team provides customers unique visions.</p>
+						<h4>Service de consultation</h4>
+						<p>La technologie professionnelle d'élite et l'équipe de gestion fournissent aux clients des visions uniques.</p>
 
 					</div>
 					<div class="clearfix"> </div>
@@ -111,8 +110,8 @@ Create value for the customer with our internal SCM platform and external extens
 						</div>
 					</div>
 					<div class="col-xs-9 wthree_banner_bottom_grid_right">
-						<h4>Turn Key Solution</h4>
-						<p>Integrate high quality material, top notch service and professional project management. Our Cross-functional team consists of sourcing; purchasing; Quality & logistics.</p>
+						<h4>Solution clé en main</h4>
+						<p>Intégrez du matériel de haute qualité, un service de qualité supérieure et une gestion de projet professionnelle. Notre équipe interfonctionnelle consiste en l'approvisionnement; achat; Qualité et logistique</p>
 
 					</div>
 					<div class="clearfix"> </div>
@@ -128,8 +127,8 @@ Create value for the customer with our internal SCM platform and external extens
 <div class="medile_section" id="three_grids">
 	<div class="col-md-5 mid-one"> </div>
 	<div class="col-md-3 mid-text-info">
-		<h4>Market and Products</h4>
-		<p>Sinobec is offering Aluminum valve products for Internal Renovation, Construction,  Residential, Medical Equipment and Food Industry.</p>
+		<h4>Marché et produits</h4>
+		<p>Sinobec offre des produits de soupape en aluminium pour la rénovation interne, la construction, le résidentiel, l'équipement médical et l'industrie alimentaire.</p>
 	</div>
 	<div class="col-md-4 mid-two"> </div>
 	<div class="clearfix"> </div>
@@ -140,7 +139,7 @@ Create value for the customer with our internal SCM platform and external extens
 <div class="about" id="welcome">
 	<div class="container">
 		<div class="wthree_head_section">
-			<h3 class="w3l_header w3_agileits_header two">Who <span> We Are</span></h3>
+			<h3 class="w3l_header w3_agileits_header two">Qui <span> Nous sommes</span></h3>
 		</div>
 		<div class="agile_wthree_inner_grids">
 
@@ -149,9 +148,8 @@ Create value for the customer with our internal SCM platform and external extens
 			</div>
 
 			<div class="col-md-6 about_agileinfo">
-				<h4>Since 2002</h4>
-				<p>Sinobec Trading Co. was incorporated in 2002 in Montreal, Canada. we started from a family business,
-					Sinobec is young but grow fast. USA and China and supply both series aluminum products and one- station-service to customers in various industries including: aviation; automobile, marine, construction, and green energy. 
+				<h4>Depuis 2002</h4>
+				<p>Sinobec Trading Co. a été constituée en 2002 à Montréal, Canada. nous sommes partis d'une entreprise familiale, Sinobec est jeune mais grandit vite. Les États-Unis et la Chine fournissent des produits en aluminium de série et un service à une station aux clients de diverses industries, notamment: l'aviation; automobile, marine, construction et énergie verte.
 				</p>
 				<div class="mid-inner-info">
 					<div class="col-md-6 mid-inner-sec one">
@@ -230,7 +228,7 @@ Create value for the customer with our internal SCM platform and external extens
 <div class="services" id="services">
 	<div class="container">
 		<div class="wthree_head_section">
-			<h3 class="w3l_header w3_agileits_header two">What <span> We Do</span></h3>
+			<h3 class="w3l_header w3_agileits_header two">Ce que <span> Nous faisons</span></h3>
 		</div>
 		<div class="agile_wthree_inner_grids">
 			<div class="col-md-6 agileits_banner_bottom_left">
@@ -242,10 +240,10 @@ Create value for the customer with our internal SCM platform and external extens
 							</div>
 						</div>
 						<div class="col-xs-9 wthree_banner_bottom_grid_right">
-							<h4 class="sub_service_agileits">Material Supply</h4>
-							<p>Aim to reduce customer’s total cost of ownership with competitive purchasing cost and short lead time; VMI, Consignment and provide flexibility. </p>
+							<h4 class="sub_service_agileits">Fourniture de matériel</h4>
+							<p>Viser à réduire le coût total de possession du client avec des coûts d'achat compétitifs et des délais de livraison courts; VMI, Consignation et fournir de la flexibilité.</p>
 							<div class="agileits-button two service">
-								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
+								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Lire la suite »</a>
 							</div>
 						</div>
 						<div class="clearfix"> </div>
@@ -261,10 +259,10 @@ Create value for the customer with our internal SCM platform and external extens
 							</div>
 						</div>
 						<div class="col-xs-9 wthree_banner_bottom_grid_right">
-							<h4 class="sub_service_agileits">Supply Chain Service</h4>
-							<p>Dedicated and tailored supply chain service to fit into your business. Diagnose your needs and enhance your supply chain. </p>
+							<h4 class="sub_service_agileits">Service de la chaîne d'approvisionnement</h4>
+							<p>Un service de chaîne d'approvisionnement dédié et adapté à votre entreprise. Diagnostiquez vos besoins et améliorez votre chaîne d'approvisionnement. </p>
 							<div class="agileits-button two service">
-								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
+								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Lire la suite »</a>
 							</div>
 						</div>
 						<div class="clearfix"> </div>
@@ -280,10 +278,10 @@ Create value for the customer with our internal SCM platform and external extens
 							</div>
 						</div>
 						<div class="col-xs-9 wthree_banner_bottom_grid_right">
-							<h4 class="sub_service_agileits">Consulting Service</h4>
-							<p>Professional elite technology and management team provides customers unique visions.</p>
+							<h4 class="sub_service_agileits">Service de consultation</h4>
+							<p>La technologie professionnelle d'élite et l'équipe de gestion fournissent aux clients des visions uniques.</p>
 							<div class="agileits-button two service">
-								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
+								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Lire la suite »</a>
 							</div>
 						</div>
 						<div class="clearfix"> </div>
@@ -299,10 +297,10 @@ Create value for the customer with our internal SCM platform and external extens
 							</div>
 						</div>
 						<div class="col-xs-9 wthree_banner_bottom_grid_right">
-							<h4 class="sub_service_agileits">Turn Key solution</h4>
-							<p>Integrate high quality material, top notch service and professional project management. Our Cross-functional team consists of sourcing; purchasing; Quality & logistics.</p>
+							<h4 class="sub_service_agileits">Solution clé en main</h4>
+							<p>Intégrez du matériel de haute qualité, un service de qualité supérieure et une gestion de projet professionnelle. Notre équipe interfonctionnelle consiste en l'approvisionnement; achat; Qualité et logistique</p>
 							<div class="agileits-button two service">
-								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
+								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Lire la suite »</a>
 							</div>
 						</div>
 						<div class="clearfix"> </div>
