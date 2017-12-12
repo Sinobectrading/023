@@ -47,19 +47,21 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- //banner -->
 <!-- banner-bottom -->
 <div class="banner-bottom">
-	<div class="container">
-
+	<div class="container" id="homepro">
+		<div class="wthree_head_section">
+			<h3 class="w3l_header w3_agileits_header two">What <span> We Have</span></h3>
+		</div>
 		<div class="col-md-3 agileits_banner_bottom_left">
 			<div class="agileinfo_banner_bottom_pos">
 				<div class="w3_agileits_banner_bottom_pos_grid">
 					<div class="col-xs-3 wthree_banner_bottom_grid_left">
 						<div class="agile_banner_bottom_grid_left_grid hvr-radial-out">
-							<span class="fa fa-laptop" aria-hidden="true"></span>
+							<span><img src="../images/svg/ingot.png" alt=""></span>
 						</div>
 					</div>
 					<div class="col-xs-9 wthree_banner_bottom_grid_right">
-						<h4>Fourniture de matériel</h4>
-						<p>Viser à réduire le coût total de possession du client avec des coûts d'achat compétitifs et des délais de livraison courts; VMI, Consignation et fournir de la flexibilité.</p>
+						<h4>Matière première d'aluminium</h4>
+						<p>Aluminium billette et lingot.</p>
 
 					</div>
 					<div class="clearfix"> </div>
@@ -72,12 +74,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="w3_agileits_banner_bottom_pos_grid">
 					<div class="col-xs-3 wthree_banner_bottom_grid_left">
 						<div class="agile_banner_bottom_grid_left_grid hvr-radial-out">
-							<span class="fa fa-pencil" aria-hidden="true"></span>
+							<span><img src="../images/svg/extrusion.png" alt=""></span>
 						</div>
 					</div>
 					<div class="col-xs-9 wthree_banner_bottom_grid_right">
-						<h4>Service de la chaîne d'approvisionnement</h4>
-						<p>Service de chaîne d'approvisionnement dédié et personnalisé. Diagnostiquez vos besoins et améliorez votre chaîne d'approvisionnement.</p>
+						<h4>Matériau intermédiaire en aluminium</h4>
+						<p>Aluminium bobine, feuille, plaque et extrusions.</p>
 
 					</div>
 					<div class="clearfix"> </div>
@@ -89,13 +91,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="w3_agileits_banner_bottom_pos_grid">
 					<div class="col-xs-3 wthree_banner_bottom_grid_left">
 						<div class="agile_banner_bottom_grid_left_grid hvr-radial-out">
-							<span class="fa fa-mobile" aria-hidden="true"></span>
+							<span><img src="../images/svg/steel.png" alt=""></span>
 						</div>
 					</div>
 					<div class="col-xs-9 wthree_banner_bottom_grid_right">
-						<h4>Service de consultation</h4>
-						<p>La technologie professionnelle d'élite et l'équipe de gestion fournissent aux clients des visions uniques.</p>
-
+						<h4>Acier inoxydable</h4>
+						<p>CoiBobines, feuilles, plaques, tuyaux et tubesls, sheets, plates, pipes & tubes.</p>
 					</div>
 					<div class="clearfix"> </div>
 				</div>
@@ -106,12 +107,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="w3_agileits_banner_bottom_pos_grid">
 					<div class="col-xs-3 wthree_banner_bottom_grid_left">
 						<div class="agile_banner_bottom_grid_left_grid hvr-radial-out">
-							<span class="fa fa-mobile" aria-hidden="true"></span>
+							<span><img src="../images/svg/fence.png" alt=""></span>
 						</div>
 					</div>
 					<div class="col-xs-9 wthree_banner_bottom_grid_right">
-						<h4>Solution clé en main</h4>
-						<p>Intégrez du matériel de haute qualité, un service de qualité supérieure et une gestion de projet professionnelle. Notre équipe interfonctionnelle consiste en l'approvisionnement; achat; Qualité et logistique</p>
+						<h4>Produits finis</h4>
+						<p>Aluminium balustrade et clôture</p>
 
 					</div>
 					<div class="clearfix"> </div>
@@ -127,7 +128,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="medile_section" id="three_grids">
 	<div class="col-md-5 mid-one"> </div>
 	<div class="col-md-3 mid-text-info">
-		<h4>Marché et produits</h4>
+		<h4>Marché et Domaines</h4>
 		<p>Sinobec offre des produits de soupape en aluminium pour la rénovation interne, la construction, le résidentiel, l'équipement médical et l'industrie alimentaire.</p>
 	</div>
 	<div class="col-md-4 mid-two"> </div>
@@ -151,25 +152,21 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<h4>Depuis 2002</h4>
 				<p>Sinobec Trading Co. a été constituée en 2002 à Montréal, Canada. nous sommes partis d'une entreprise familiale, Sinobec est jeune mais grandit vite. Les États-Unis et la Chine fournissent des produits en aluminium de série et un service à une station aux clients de diverses industries, notamment: l'aviation; automobile, marine, construction et énergie verte.
 				</p>
-				<div class="mid-inner-info">
+				<!-- <div class="mid-inner-info">
 					<div class="col-md-6 mid-inner-sec one">
 						<span class="fa fa-heart-o" aria-hidden="true"></span>
 						<h5>Media Buying</h5>
 						<p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-						<!-- <div class="agileits-button two service">
-							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
-						</div> -->
+						 
 					</div>
 					<div class="col-md-6 mid-inner-sec">
 						<span class="fa fa-clone" aria-hidden="true"></span>
 						<h5>Digital Advertising</h5>
 						<p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-						<!-- <div class="agileits-button two service">
-							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
-						</div> -->
+						 
 					</div>
 				</div>
-
+ -->
 			</div>
 			<div class="clearfix"></div>
 		</div>

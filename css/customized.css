@@ -1,7 +1,16 @@
 @import url("https://fonts.googleapis.com/css?family=Cardo|Pathway+Gothic+One");
 
-
-
+#homepro h3.w3l_header, #homepro span {
+  color: #262c38;
+}
+#homepro .wthree_head_section {
+  padding-bottom: 50px
+}
+#homepro .agileits_banner_bottom_left .agileinfo_banner_bottom_pos
+ .w3_agileits_banner_bottom_pos_grid .wthree_banner_bottom_grid_left .agile_banner_bottom_grid_left_grid 
+ span img {
+  width: 30px
+ }
 .aboutfocusinside {
    padding-top: 10vh
 }

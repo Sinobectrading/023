@@ -47,19 +47,21 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- //banner -->
 <!-- banner-bottom -->
 <div class="banner-bottom">
-	<div class="container">
-
+	<div class="container" id="homepro">
+		<div class="wthree_head_section">
+			<h3 class="w3l_header w3_agileits_header two">What <span> We Have</span></h3>
+		</div>
 		<div class="col-md-3 agileits_banner_bottom_left">
 			<div class="agileinfo_banner_bottom_pos">
 				<div class="w3_agileits_banner_bottom_pos_grid">
 					<div class="col-xs-3 wthree_banner_bottom_grid_left">
 						<div class="agile_banner_bottom_grid_left_grid hvr-radial-out">
-							<span class="fa fa-laptop" aria-hidden="true"></span>
+							<span><img src="../images/svg/ingot.png" alt=""></span>
 						</div>
 					</div>
 					<div class="col-xs-9 wthree_banner_bottom_grid_right">
-						<h4>Material Supply</h4>
-						<p>Aim to reduce customer’s total cost of ownership with competitive purchasing cost and short lead time; VMI, Consignment and provide flexibility.</p>
+						<h4>Aluminum raw material</h4>
+						<p>Aluminum Billet and ingot.</p>
 
 					</div>
 					<div class="clearfix"> </div>
@@ -72,13 +74,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="w3_agileits_banner_bottom_pos_grid">
 					<div class="col-xs-3 wthree_banner_bottom_grid_left">
 						<div class="agile_banner_bottom_grid_left_grid hvr-radial-out">
-							<span class="fa fa-pencil" aria-hidden="true"></span>
+							<span><img src="../images/svg/extrusion.png" alt=""></span>
 						</div>
 					</div>
 					<div class="col-xs-9 wthree_banner_bottom_grid_right">
-						<h4>Supply Chain Service</h4>
-						<p>Dedicated and tailored supply chain service. Diagnose your needs and enhance your supply chain.
-Create value for the customer with our internal SCM platform and external extensive supply network.</p>
+						<h4>Aluminum mid material</h4>
+						<p>luminum coil, sheet, plate & extrusions</p>
 
 					</div>
 					<div class="clearfix"> </div>
@@ -90,12 +91,12 @@ Create value for the customer with our internal SCM platform and external extens
 				<div class="w3_agileits_banner_bottom_pos_grid">
 					<div class="col-xs-3 wthree_banner_bottom_grid_left">
 						<div class="agile_banner_bottom_grid_left_grid hvr-radial-out">
-							<span class="fa fa-mobile" aria-hidden="true"></span>
+							<span><img src="../images/svg/steel.png" alt=""></span>
 						</div>
 					</div>
 					<div class="col-xs-9 wthree_banner_bottom_grid_right">
-						<h4>Consulting Service</h4>
-						<p>Professional elite technology and management team provides customers unique visions.</p>
+						<h4>Stainless steel</h4>
+						<p>Stainless steel coils, sheets, plates, pipes & tubes.</p>
 
 					</div>
 					<div class="clearfix"> </div>
@@ -107,12 +108,12 @@ Create value for the customer with our internal SCM platform and external extens
 				<div class="w3_agileits_banner_bottom_pos_grid">
 					<div class="col-xs-3 wthree_banner_bottom_grid_left">
 						<div class="agile_banner_bottom_grid_left_grid hvr-radial-out">
-							<span class="fa fa-mobile" aria-hidden="true"></span>
+							<span><img src="../images/svg/fence.png" alt=""></span>
 						</div>
 					</div>
 					<div class="col-xs-9 wthree_banner_bottom_grid_right">
-						<h4>Turn Key Solution</h4>
-						<p>Integrate high quality material, top notch service and professional project management. Our Cross-functional team consists of sourcing; purchasing; Quality & logistics.</p>
+						<h4>Finished products</h4>
+						<p>Aluminum railing and fence.</p>
 
 					</div>
 					<div class="clearfix"> </div>
@@ -128,7 +129,7 @@ Create value for the customer with our internal SCM platform and external extens
 <div class="medile_section" id="three_grids">
 	<div class="col-md-5 mid-one"> </div>
 	<div class="col-md-3 mid-text-info">
-		<h4>Market and Products</h4>
+		<h4>Market and Fields</h4>
 		<p>Sinobec is offering Aluminum valve products for Internal Renovation, Construction,  Residential, Medical Equipment and Food Industry.</p>
 	</div>
 	<div class="col-md-4 mid-two"> </div>
@@ -145,7 +146,7 @@ Create value for the customer with our internal SCM platform and external extens
 		<div class="agile_wthree_inner_grids">
 
 			<div class="col-md-6 col-xs-12 about_agileinfo_grid_imgs">
-				<img src="../images/about.jpg" alt="" />
+				<img src="../images/aboutus.jpg" alt="" />
 			</div>
 
 			<div class="col-md-6 col-xs-12 about_agileinfo">
@@ -153,24 +154,24 @@ Create value for the customer with our internal SCM platform and external extens
 				<p>Sinobec Trading Co. was incorporated in 2002 in Montreal, Canada. we started from a family business,
 					Sinobec is young but grow fast. USA and China and supply both series aluminum products and one- station-service to customers in various industries including: aviation; automobile, marine, construction, and green energy. 
 				</p>
-				<div class="mid-inner-info">
+				<!-- <div class="mid-inner-info">
 					<div class="col-md-6 mid-inner-sec one">
 						<span class="fa fa-heart-o" aria-hidden="true"></span>
 						<h5>Media Buying</h5>
 						<p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-						<!-- <div class="agileits-button two service">
+						<div class="agileits-button two service">
 							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
-						</div> -->
+						</div>
 					</div>
 					<div class="col-md-6 mid-inner-sec">
 						<span class="fa fa-clone" aria-hidden="true"></span>
 						<h5>Digital Advertising</h5>
 						<p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-						<!-- <div class="agileits-button two service">
+						<div class="agileits-button two service">
 							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
-						</div> -->
+						</div>
 					</div>
-				</div>
+				</div> -->
 
 			</div>
 			<div class="clearfix"></div>
