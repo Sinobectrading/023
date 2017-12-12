@@ -27,9 +27,9 @@
 		<p>Sinobec Trading started in 2002 and is a large sized Master Distributor of non-ferrous products (Aluminum & Stainless) in all shapes & forms.  We pride ourselves on Innovation, efficiency and execution and being able to provide our customers with quality products at very competitive prices.  
 We currently have 3 strategically located depots in Canada & US and carry standard stock in Aluminum coils, sheets, plates & extrusions as well as Stainless steel sheets.
 </p>
-		<div class="agileits-button two">
+		<!-- <div class="agileits-button two">
 			<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
-		</div>
+		</div> -->
 	</div>
 </div>
 <!-- //banner_bottom_w3ls_agile -->

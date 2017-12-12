@@ -84,8 +84,7 @@
 
 <!-- /map -->
 	<div class="map">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387142.84010033106!2d-74.25819252532891!3d40.70583163828471!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sin!4v1475140387172" style="border:0"></iframe>
-
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.410215422109!2d-73.7407766850167!3d45.50182023895437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc93d4ab4d3502f%3A0x86c0efe103230594!2s4455+Rue+Cousens%2C+Saint-Laurent%2C+QC+H4S+1X5%2C+Canada!5e0!3m2!1sen!2sus!4v1512745223463" frameborder="0" style="border:0" allowfullscreen></iframe>
 	</div>
 <!-- //map -->
 <?php include_once 'footer.php'; ?>	

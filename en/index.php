@@ -22,10 +22,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<p>The leader seller of North America</p>
 				<div class="w3-button">
 					<div class="w3ls-button">
-						<a href="single.html" class="hvr-shutter-out-vertical">Read More</a>
+						<a href="about.php" class="hvr-shutter-out-vertical">Read More</a>
 					</div>
 					<div class="w3l-button">
-						<a href="#portfolio" class="hvr-shutter-out-vertical scroll ">Portfolio</a>
+						<a href="products.php" class="hvr-shutter-out-vertical scroll ">Products</a>
 					</div>
 					<div class="clearfix"> </div>
 				</div>
@@ -144,11 +144,11 @@ Create value for the customer with our internal SCM platform and external extens
 		</div>
 		<div class="agile_wthree_inner_grids">
 
-			<div class="col-md-6 about_agileinfo_grid_imgs">
+			<div class="col-md-6 col-xs-12 about_agileinfo_grid_imgs">
 				<img src="../images/about.jpg" alt="" />
 			</div>
 
-			<div class="col-md-6 about_agileinfo">
+			<div class="col-md-6 col-xs-12 about_agileinfo">
 				<h4>Since 2002</h4>
 				<p>Sinobec Trading Co. was incorporated in 2002 in Montreal, Canada. we started from a family business,
 					Sinobec is young but grow fast. USA and China and supply both series aluminum products and one- station-service to customers in various industries including: aviation; automobile, marine, construction, and green energy. 
@@ -158,17 +158,17 @@ Create value for the customer with our internal SCM platform and external extens
 						<span class="fa fa-heart-o" aria-hidden="true"></span>
 						<h5>Media Buying</h5>
 						<p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-						<div class="agileits-button two service">
+						<!-- <div class="agileits-button two service">
 							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
-						</div>
+						</div> -->
 					</div>
 					<div class="col-md-6 mid-inner-sec">
 						<span class="fa fa-clone" aria-hidden="true"></span>
 						<h5>Digital Advertising</h5>
 						<p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-						<div class="agileits-button two service">
+						<!-- <div class="agileits-button two service">
 							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 
@@ -244,9 +244,9 @@ Create value for the customer with our internal SCM platform and external extens
 						<div class="col-xs-9 wthree_banner_bottom_grid_right">
 							<h4 class="sub_service_agileits">Material Supply</h4>
 							<p>Aim to reduce customer’s total cost of ownership with competitive purchasing cost and short lead time; VMI, Consignment and provide flexibility. </p>
-							<div class="agileits-button two service">
+							<!-- <div class="agileits-button two service">
 								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
-							</div>
+							</div> -->
 						</div>
 						<div class="clearfix"> </div>
 					</div>
@@ -263,9 +263,9 @@ Create value for the customer with our internal SCM platform and external extens
 						<div class="col-xs-9 wthree_banner_bottom_grid_right">
 							<h4 class="sub_service_agileits">Supply Chain Service</h4>
 							<p>Dedicated and tailored supply chain service to fit into your business. Diagnose your needs and enhance your supply chain. </p>
-							<div class="agileits-button two service">
+							<!-- <div class="agileits-button two service">
 								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
-							</div>
+							</div> -->
 						</div>
 						<div class="clearfix"> </div>
 					</div>
@@ -282,9 +282,9 @@ Create value for the customer with our internal SCM platform and external extens
 						<div class="col-xs-9 wthree_banner_bottom_grid_right">
 							<h4 class="sub_service_agileits">Consulting Service</h4>
 							<p>Professional elite technology and management team provides customers unique visions.</p>
-							<div class="agileits-button two service">
+							<!-- <div class="agileits-button two service">
 								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
-							</div>
+							</div> -->
 						</div>
 						<div class="clearfix"> </div>
 					</div>
@@ -301,9 +301,9 @@ Create value for the customer with our internal SCM platform and external extens
 						<div class="col-xs-9 wthree_banner_bottom_grid_right">
 							<h4 class="sub_service_agileits">Turn Key solution</h4>
 							<p>Integrate high quality material, top notch service and professional project management. Our Cross-functional team consists of sourcing; purchasing; Quality & logistics.</p>
-							<div class="agileits-button two service">
+							<!-- <div class="agileits-button two service">
 								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
-							</div>
+							</div> -->
 						</div>
 						<div class="clearfix"> </div>
 					</div>

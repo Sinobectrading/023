@@ -25,16 +25,16 @@
 		<div class="agile_wthree_inner_grids">
 			<div id="horizontalTab">
 				<ul class="resp-tabs-list">
-					<li><i class="fa fa-search" aria-hidden="true"></i>Metal Processing & Fabrication</li>
-					<li><i class="fa fa-pencil" aria-hidden="true"></i>Supply Chain</li>
-					<li><i class="fa fa-line-chart" aria-hidden="true"></i>Consultant</li>
-					<li><i class="fa fa-shield" aria-hidden="true"></i>Project and Turn Key solution</li>
+					<li><p><img src="../images/svg/65xmp.png" alt=""></p>Metal Processing & Fabrication</li>
+					<li><p><img src="../images/svg/65xsc.png" alt=""></p><br>Supply Chain</li>
+					<li><p><img src="../images/svg/65xcs.png" alt=""></p><br>Consultant</li>
+					<li><p><img src="../images/svg/65xps.png" alt=""></p>Project and Turn Key solution</li>
 				</ul>
 				<div class="resp-tabs-container">
 
 					<div class="tab1">
 						<div class="col-md-6 tab-info-img">
-							<img src="../images/g1.jpg" alt="img">
+							<img src="../images/service/801_449_02.jpg" alt="img">
 						</div>
 						<div class="col-md-6 tab-info">
 							<!-- <h4>Billet and Ingot </h4> -->
@@ -57,14 +57,14 @@
 							</div> -->
 						</div>
 						<div class="col-md-6 tab-info-img">
-							<img src="../images/g2.jpg" alt="img">
+							<img src="../images/service/801_449_01.jpg" alt="img">
 						</div>
 						<div class="clearfix"></div>
 					</div>
 
 					<div class="tab3">
 						<div class="col-md-6 tab-info-img">
-							<img src="../images/g1.jpg" alt="img">
+							<img src="../images/service/801_449_04.jpg" alt="img">
 						</div>
 						<div class="col-md-6 tab-info">
 							<!-- <h4>Coils, sheets, plates, pipes & tubes </h4> -->
@@ -87,7 +87,7 @@
 						</div>
 
 						<div class="col-md-6 tab-info-img">
-							<img src="../images/g2.jpg" alt="img">
+							<img src="../images/service/801_449_03.jpg" alt="img">
 						</div>
 						<div class="clearfix"></div>
 					</div>

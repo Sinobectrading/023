@@ -25,16 +25,16 @@
 		<div class="agile_wthree_inner_grids">
 			<div id="horizontalTab">
 				<ul class="resp-tabs-list">
-					<li><i class="fa fa-search" aria-hidden="true"></i>Matière première d'aluminium</li>
-					<li><i class="fa fa-pencil" aria-hidden="true"></i>Matériau intermédiaire en aluminium</li>
-					<li><i class="fa fa-line-chart" aria-hidden="true"></i>Acier inoxydable</li>
-					<li><i class="fa fa-shield" aria-hidden="true"></i>Produits finis</li>
+					<li><p><img src="../images/svg/50xal.png" alt=""></p>Matière première d'aluminium</li>
+					<li><p><img src="../images/svg/65Xpl.png" alt=""></p>Matériau intermédiaire en aluminium</li>
+					<li><p><img src="../images/svg/65xst.png" alt=""></p>Acier inoxydable</li>
+					<li><p><img src="../images/svg/65xsd.png" alt=""></p>Produits finis</li>
 				</ul>
 				<div class="resp-tabs-container">
 
 					<div class="tab1">
 						<div class="col-md-6 tab-info-img">
-							<img src="../images/g1.jpg" alt="img">
+							<img src="../images/509_285_001.jpg" alt="img">
 						</div>
 						<div class="col-md-6 tab-info">
 							<h4>Billette et lingot</h4>
@@ -59,18 +59,18 @@
 							<p>De plus, les usines de Sinobec en Extrême-Orient fournissent des extrusions personnalisées avec un délai raisonnable. Nous fournissons le paquet de service, y compris la conception de matrice, la fabrication de matrice, la logistique, le dédouanement, le stockage et la distribution.</p>
 							</p>
 							<div class="agileits-button two">
-								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Lire la suite »</a>
+								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="mid.php" role="button">Lire la suite »</a>
 							</div>
 						</div>
 						<div class="col-md-6 tab-info-img">
-							<img src="../images/g2.jpg" alt="img">
+							<img src="../images/mid/509_450_raw.png" alt="img">
 						</div>
 						<div class="clearfix"></div>
 					</div>
 
 					<div class="tab3">
 						<div class="col-md-6 tab-info-img">
-							<img src="../images/g1.jpg" alt="img">
+							<img src="../images/509_285_002.jpg" alt="img">
 						</div>
 						<div class="col-md-6 tab-info">
 							<h4>CoiBobines, feuilles, plaques, tuyaux et tubesls, sheets, plates, pipes & tubes</h4>
@@ -80,7 +80,7 @@
 							</p>
 						</div>
 						<div class="agileits-button two">
-							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Lire la suite »</a>
+							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="steel.php" role="button">Lire la suite »</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -92,12 +92,12 @@
 								dapibus efficitur in, auctor eget elit. Lorem ipsum dolor sit amet fusce eget erat nunc. Sed fringilla sem vitae
 								mi interdum commodo.</p>
 							<div class="agileits-button two">
-								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Lire la suite »</a>
+								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="finished.php" role="button">Lire la suite »</a>
 							</div>
 						</div>
 
 						<div class="col-md-6 tab-info-img">
-							<img src="../images/g2.jpg" alt="img">
+							<img src="../images/509_285_003.jpg" alt="img">
 						</div>
 						<div class="clearfix"></div>
 					</div>

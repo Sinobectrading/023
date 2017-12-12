@@ -22,10 +22,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<p>Le leader des ventes en Amérique du Nord</p>
 				<div class="w3-button">
 					<div class="w3ls-button">
-						<a href="single.html" class="hvr-shutter-out-vertical">Lire la suite</a>
+						<a href="about.php" class="hvr-shutter-out-vertical">Lire la suite</a>
 					</div>
 					<div class="w3l-button">
-						<a href="#portfolio" class="hvr-shutter-out-vertical scroll ">Products</a>
+						<a href="products.php" class="hvr-shutter-out-vertical scroll ">Produts</a>
 					</div>
 					<div class="clearfix"> </div>
 				</div>
@@ -156,17 +156,17 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<span class="fa fa-heart-o" aria-hidden="true"></span>
 						<h5>Media Buying</h5>
 						<p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-						<div class="agileits-button two service">
+						<!-- <div class="agileits-button two service">
 							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
-						</div>
+						</div> -->
 					</div>
 					<div class="col-md-6 mid-inner-sec">
 						<span class="fa fa-clone" aria-hidden="true"></span>
 						<h5>Digital Advertising</h5>
 						<p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-						<div class="agileits-button two service">
+						<!-- <div class="agileits-button two service">
 							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 
@@ -242,9 +242,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<div class="col-xs-9 wthree_banner_bottom_grid_right">
 							<h4 class="sub_service_agileits">Fourniture de matériel</h4>
 							<p>Viser à réduire le coût total de possession du client avec des coûts d'achat compétitifs et des délais de livraison courts; VMI, Consignation et fournir de la flexibilité.</p>
-							<div class="agileits-button two service">
+							<!-- <div class="agileits-button two service">
 								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Lire la suite »</a>
-							</div>
+							</div> -->
 						</div>
 						<div class="clearfix"> </div>
 					</div>
@@ -261,9 +261,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<div class="col-xs-9 wthree_banner_bottom_grid_right">
 							<h4 class="sub_service_agileits">Service de la chaîne d'approvisionnement</h4>
 							<p>Un service de chaîne d'approvisionnement dédié et adapté à votre entreprise. Diagnostiquez vos besoins et améliorez votre chaîne d'approvisionnement. </p>
-							<div class="agileits-button two service">
+							<!-- <div class="agileits-button two service">
 								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Lire la suite »</a>
-							</div>
+							</div> -->
 						</div>
 						<div class="clearfix"> </div>
 					</div>
@@ -280,9 +280,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<div class="col-xs-9 wthree_banner_bottom_grid_right">
 							<h4 class="sub_service_agileits">Service de consultation</h4>
 							<p>La technologie professionnelle d'élite et l'équipe de gestion fournissent aux clients des visions uniques.</p>
-							<div class="agileits-button two service">
+							<!-- <div class="agileits-button two service">
 								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Lire la suite »</a>
-							</div>
+							</div> -->
 						</div>
 						<div class="clearfix"> </div>
 					</div>
@@ -299,9 +299,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<div class="col-xs-9 wthree_banner_bottom_grid_right">
 							<h4 class="sub_service_agileits">Solution clé en main</h4>
 							<p>Intégrez du matériel de haute qualité, un service de qualité supérieure et une gestion de projet professionnelle. Notre équipe interfonctionnelle consiste en l'approvisionnement; achat; Qualité et logistique</p>
-							<div class="agileits-button two service">
+							<!-- <div class="agileits-button two service">
 								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Lire la suite »</a>
-							</div>
+							</div> -->
 						</div>
 						<div class="clearfix"> </div>
 					</div>

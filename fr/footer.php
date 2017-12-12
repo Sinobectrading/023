@@ -4,41 +4,41 @@
 <div class="footer">
 	<div class="f-bg-w3l">
 			<div class="col-md-3 w3layouts_footer_grid">
-				<h2>Subscribe <span>Newsletter</span></h2>
-				<p>By subscribing to our mailing list you will always get latest news from us.</p>
+				<h2>Téléchargez <span>Brochure</span></h2>
+				<p>Pour obtenir votre brochure produit, entrez votre adresse e-mail.</p>
 				<form action="#" method="post">
 					<input type="email" name="Email" placeholder="Enter your email..." required="">
-					<button class="btn1"><i class="fa fa-envelope-o" aria-hidden="true"></i></button>
+					<button class="btn1"><i class="fa fa-2x fa-arrow-circle-o-down" aria-hidden="true"></i></button>
 					<div class="clearfix"> </div>
 				</form>
 				
 			
 			</div>
 			<div class="col-md-4 w3layouts_footer_grid">
-				<h3>Recent <span>Works</span></h3>
+				<h3>Nos <span> Produts</span></h3>
 				 <ul class="con_inner_text midimg">
-					<li><a href="#"><img src="../images/banner22.jpg" alt="" class="img-responsive" /></a></li>
-				    <li><a href="#"><img src="../images/banner33.jpg" alt="" class="img-responsive" /></a></li>
-					<li><a href="#"><img src="../images/banner44.jpg" alt="" class="img-responsive" /></a></li>
-					<li><a href="#"><img src="../images/banner11.jpg" alt="" class="img-responsive" /></a></li>
-					<li><a href="#"><img src="../images/banner22.jpg" alt="" class="img-responsive" /></a></li>
-				    <li><a href="#"><img src="../images/banner33.jpg" alt="" class="img-responsive" /></a></li>
-					 <li><a href="#"><img src="../images/banner11.jpg" alt="" class="img-responsive" /></a></li>
-					<li><a href="#"><img src="../images/banner44.jpg" alt="" class="img-responsive" /></a></li>
+					<li><a href="products.php"><img src="../images/90x90/01.jpg" alt="" class="img-responsive" /></a></li>
+				    <li><a href="products.php"><img src="../images/90x90/02.jpg" alt="" class="img-responsive" /></a></li>
+					<li><a href="products.php"><img src="../images/90x90/03.jpg" alt="" class="img-responsive" /></a></li>
+					<li><a href="products.php"><img src="../images/90x90/04.jpg" alt="" class="img-responsive" /></a></li>
+					<li><a href="products.php"><img src="../images/90x90/05.jpg" alt="" class="img-responsive" /></a></li>
+				    <li><a href="products.php"><img src="../images/90x90/06.jpg" alt="" class="img-responsive" /></a></li>
+					<li><a href="products.php"><img src="../images/90x90/07.jpg" alt="" class="img-responsive" /></a></li>
+					<li><a href="products.php"><img src="../images/90x90/08.jpg" alt="" class="img-responsive" /></a></li>
 			     </ul>
 				
 			</div>
 			<div class="col-md-2 w3layouts_footer_grid">
-				<h3>Our <span>Links</span> </h3>
+				<h3>Product  <span> Catégories</span> </h3>
 				  <ul class="links">
-						<li><a href="index.php">Home</a></li>
-						<li><a href="about.php">About</a></li>
-						<li><a href="blog.php">Blog</a></li>
-						<li><a href="mail.php">Mail Us</a></li>
+						<li><a href="products.php">Aluminum raw material</a></li>
+						<li><a href="products.php">Aluminum mid material</a></li>
+						<li><a href="products.php">Stainless steel</a></li>
+						<li><a href="products.php">Finished products</a></li>
 					</ul>
 			</div>
 			<div class="col-md-3 w3layouts_footer_grid">
-				<h2>Contact <span>Us</span></h2>
+				<h2>Contactez <span> Nous</span></h2>
 				    <ul class="con_inner_text">
 						<li><span class="fa fa-map-marker" aria-hidden="true"></span>4455 Rue Cousens, St-Laurent <label> QC, Canada, H4S 1X5</label></li>
 						<li><span class="fa fa-envelope-o" aria-hidden="true"></span> <a href="mailto:info@example.com">info@sinobectrading.com</a></li>

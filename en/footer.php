@@ -4,37 +4,37 @@
 <div class="footer">
 	<div class="f-bg-w3l">
 			<div class="col-md-3 w3layouts_footer_grid">
-				<h2>Subscribe <span>Newsletter</span></h2>
-				<p>By subscribing to our mailing list you will always get latest news from us.</p>
+				<h2>Get <span>Broucher</span></h2>
+				<p>To get our product broucher, please enter your email address.</p>
 				<form action="#" method="post">
 					<input type="email" name="Email" placeholder="Enter your email..." required="">
-					<button class="btn1"><i class="fa fa-envelope-o" aria-hidden="true"></i></button>
+					<button class="btn1"><i class="fa fa-2x fa-arrow-circle-o-down" aria-hidden="true"></i></button>
 					<div class="clearfix"> </div>
 				</form>
 				
 			
 			</div>
 			<div class="col-md-4 w3layouts_footer_grid">
-				<h3>Recent <span>Works</span></h3>
+				<h3>Our <span>Products</span></h3>
 				 <ul class="con_inner_text midimg">
-					<li><a href="#"><img src="../images/banner22.jpg" alt="" class="img-responsive" /></a></li>
-				    <li><a href="#"><img src="../images/banner33.jpg" alt="" class="img-responsive" /></a></li>
-					<li><a href="#"><img src="../images/banner44.jpg" alt="" class="img-responsive" /></a></li>
-					<li><a href="#"><img src="../images/banner11.jpg" alt="" class="img-responsive" /></a></li>
-					<li><a href="#"><img src="../images/banner22.jpg" alt="" class="img-responsive" /></a></li>
-				    <li><a href="#"><img src="../images/banner33.jpg" alt="" class="img-responsive" /></a></li>
-					 <li><a href="#"><img src="../images/banner11.jpg" alt="" class="img-responsive" /></a></li>
-					<li><a href="#"><img src="../images/banner44.jpg" alt="" class="img-responsive" /></a></li>
+					<li><a href="products.php"><img src="../images/90x90/01.jpg" alt="" class="img-responsive" /></a></li>
+				    <li><a href="products.php"><img src="../images/90x90/02.jpg" alt="" class="img-responsive" /></a></li>
+					<li><a href="products.php"><img src="../images/90x90/03.jpg" alt="" class="img-responsive" /></a></li>
+					<li><a href="products.php"><img src="../images/90x90/04.jpg" alt="" class="img-responsive" /></a></li>
+					<li><a href="products.php"><img src="../images/90x90/05.jpg" alt="" class="img-responsive" /></a></li>
+				    <li><a href="products.php"><img src="../images/90x90/06.jpg" alt="" class="img-responsive" /></a></li>
+					<li><a href="products.php"><img src="../images/90x90/07.jpg" alt="" class="img-responsive" /></a></li>
+					<li><a href="products.php"><img src="../images/90x90/08.jpg" alt="" class="img-responsive" /></a></li>
 			     </ul>
 				
 			</div>
 			<div class="col-md-2 w3layouts_footer_grid">
-				<h3>Our <span>Links</span> </h3>
+				<h3>Product <span> Categories</span> </h3>
 				  <ul class="links">
-						<li><a href="index.php">Home</a></li>
-						<li><a href="about.php">About</a></li>
-						<li><a href="blog.php">Blog</a></li>
-						<li><a href="mail.php">Mail Us</a></li>
+						<li><a href="products.php">Aluminum raw material</a></li>
+						<li><a href="products.php">Aluminum mid material</a></li>
+						<li><a href="products.php">Stainless steel</a></li>
+						<li><a href="products.php">Finished products</a></li>
 					</ul>
 			</div>
 			<div class="col-md-3 w3layouts_footer_grid">
@@ -55,7 +55,7 @@
 
 
 			<div class="clearfix"> </div>
-				<p class="copyright">© 2017 Sinobec Trading. All Rights Reserved | Design by <a href="https://#/" target="_blank">Sinobec</a></p>
+				<p class="copyright">© 2017 Sinobec Trading. All Rights Reserved | Design by <a href="https://#/" target="_blank">Sinobec</a> | <a href="privacy.php">Privacy</a></p>
 		</div>
 </div>
 <!-- //footer -->

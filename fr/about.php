@@ -26,9 +26,9 @@
 		<p>Sinobec Trading a débuté en 2002 et est un distributeur principal de grande taille de produits non ferreux (Aluminium et Inox) de toutes formes et formes. Nous sommes fiers de l'innovation, l'efficacité et l'exécution et être en mesure de fournir à nos clients des produits de qualité à des prix très compétitifs.
 Nous disposons actuellement de 3 dépôts stratégiquement situés au Canada et aux États-Unis et nous détenons des stocks standard de bobines, feuilles, plaques et extrusions en aluminium ainsi que des tôles en acier inoxydable.
 </p>
-		<div class="agileits-button two">
+		<!-- <div class="agileits-button two">
 			<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
-		</div>
+		</div> -->
 	</div>
 </div>
 <!-- //banner_bottom_w3ls_agile -->

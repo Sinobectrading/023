@@ -1,4 +1,20 @@
 @import url("https://fonts.googleapis.com/css?family=Cardo|Pathway+Gothic+One");
+
+
+
+.aboutfocusinside {
+   padding-top: 10vh
+}
+.aboutfocusinside  div h3 {
+  padding-top: 5vh;
+  padding-bottom: 2vh
+}
+#privacy + .container {
+  padding-top: 10vh
+}
+#horizontalTab .resp-tabs-list li p img {
+  margin-bottom: 15px
+}
 .timeline {
   display: flex;
   margin: 0 auto;
@@ -89,13 +105,6 @@
   margin: -50px 0 20px 0;
 }
 
-
-
-
-
-
-
-
 .timeline__img {
   max-width: 100%;
   box-shadow: 0 10px 15px rgba(0, 0, 0, 0.4);
@@ -155,7 +164,8 @@
 
 
 @media only screen and (max-width: 767px) {
-  .timeline:before {
+
+.timeline:before {
     left: 40px;
 }
     .timeline-item {
@@ -174,6 +184,35 @@
     .timeline-item:last-child {
     padding-bottom: 40px;
     }
+.mid-one {
+    background: url(../images/b_left.jpg)no-repeat 0px 0px;
+    background-size: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-size: cover;
+    background-attachment: initial;
+}
+
+.mid-one{
+   background-image: url(../images/b_left.jpg);
+   position: fixed;
+   background-size: cover;
+   width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+
+.mid-two {
+  background-size: cover;
+    background-attachment: initial;
+}
+#welcome .about_agileinfo_grid_imgs img {
+  width: 100%
+}
+
 
 }
 
