@@ -4,11 +4,11 @@
 <div class="footer">
 	<div class="f-bg-w3l">
 			<div class="col-md-3 w3layouts_footer_grid">
-				<h2>Get <span>Broucher</span></h2>
+				<h2>Get <span>Brochuer</span></h2>
 				<p>To get our product broucher, please enter your email address.</p>
-				<form action="#" method="post">
+				<form method="#" action="">
 					<input type="email" name="Email" placeholder="Enter your email..." required="">
-					<button class="btn1"><i class="fa fa-2x fa-arrow-circle-o-down" aria-hidden="true"></i></button>
+					<button class="btn1" id="fileRequest"><i class="fa fa-2x fa-arrow-circle-o-down" aria-hidden="true"></i></button>
 					<div class="clearfix"> </div>
 				</form>
 				
@@ -55,7 +55,7 @@
 
 
 			<div class="clearfix"> </div>
-				<p class="copyright">© 2017 Sinobec Trading. All Rights Reserved | Design by <a href="https://#/" target="_blank">Sinobec</a> | <a href="privacy.php">Privacy</a></p>
+				<p class="copyright">© 2017 Sinobec Trading. All Rights Reserved | Design by <a href="https://#/" target="_blank">Sinobec</a> | <?php if(isset($_SESSION["username"]) ) { ?> <a href="logout.php">Logout</a> <?php } if(!isset($_SESSION["username"]) ) { ?> <a href="login.php">Login</a> <?php } ?> | <a href="privacy.php">Privacy</a></p>
 		</div>
 </div>
 <!-- //footer -->
@@ -70,38 +70,65 @@
 <script src="../js/jquery.chocolat.js "></script>
 <script src="../js/bootstrap-3.1.1.min.js"></script>
 
+
 <link rel="stylesheet " href="/023/css/chocolat.css " type="text/css" media="all" />
  
 <script>
 	$('.counter').countUp();
 </script>
- 
 
 <script>
-	// You can also use "$(window).load(function() {"
-	$(function () {
-		$("#slider").responsiveSlides({
-			auto: true,
-			nav: true,
-			manualControls: '#slider3-pager',
-		});
-	});
+window.downloadFile = function(sUrl) {
+ 
+    //If in Chrome or Safari - download via virtual link click
+    if (window.downloadFile.isChrome || window.downloadFile.isSafari) {
+        //Creating new link node.
+        var link = document.createElement('a');
+        link.href = "../SinoBec_Book_1.pdf";
+ 
+        if (link.download !== undefined){
+            //Set HTML5 download attribute. This will prevent file from opening if supported.
+            var fileName = sUrl.substring(sUrl.lastIndexOf('/') + 1, sUrl.length);
+            link.download = fileName;
+        }
+ 
+        //Dispatching click event.
+        if (document.createEvent) {
+            var e = document.createEvent('MouseEvents');
+            e.initEvent('click' ,true ,true);
+            link.dispatchEvent(e);
+            return true;
+        }
+    }
+ 
+    // Force file download (whether supported by server).
+    var query = '?download';
+ 
+    window.open(sUrl + query);
+}
+ 
+ 
+
+$("#fileRequest").click(function() {
+    // // hope the server sets Content-Disposition: attachment!
+    downloadFile('../SinoBec_Book_1.pdf');
+});
 </script>
 
 <!-- /nav -->
 <!-- requried-jsfiles-for owl -->
 
 <script>
-	$(document).ready(function () {
-		$("#owl-demo2").owlCarousel({
-			items: 1,
-			lazyLoad: false,
-			autoPlay: true,
-			navigation: false,
-			navigationText: false,
-			pagination: true,
-		});
+$(document).ready(function () {
+	$("#owl-demo2").owlCarousel({
+		items: 1,
+		lazyLoad: false,
+		autoPlay: true,
+		navigation: false,
+		navigationText: false,
+		pagination: true,
 	});
+});
 </script>
 <!-- //requried-jsfiles-for owl -->
 

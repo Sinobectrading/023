@@ -19,7 +19,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="wrapper">
 			<div class="agile_banner_text_info">
 				<h3>Aluminum is our business</h3>
-				<p>The leader seller of North America</p>
+				<p>A leader in North America</p>
 				<div class="w3-button">
 					<div class="w3ls-button">
 						<a href="about.php" class="hvr-shutter-out-vertical">Read More</a>
@@ -61,7 +61,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					</div>
 					<div class="col-xs-9 wthree_banner_bottom_grid_right">
 						<h4>Aluminum raw material</h4>
-						<p>Aluminum Billet and ingot.</p>
+						<p>Aluminum billet and ingot products available</p>
 
 					</div>
 					<div class="clearfix"> </div>
@@ -79,7 +79,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					</div>
 					<div class="col-xs-9 wthree_banner_bottom_grid_right">
 						<h4>Aluminum mid material</h4>
-						<p>luminum coil, sheet, plate & extrusions</p>
+						<p>Aluminum coils, sheets, plates & extrusions</p>
 
 					</div>
 					<div class="clearfix"> </div>
@@ -151,8 +151,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 			<div class="col-md-6 col-xs-12 about_agileinfo">
 				<h4>Since 2002</h4>
-				<p>Sinobec Trading Co. was incorporated in 2002 in Montreal, Canada. we started from a family business,
-					Sinobec is young but grow fast. USA and China and supply both series aluminum products and one- station-service to customers in various industries including: aviation; automobile, marine, construction, and green energy. 
+				<p>Sinobec Trading Co. was incorporated in 2002 in Montreal, Canada. Starting as a family business, but has grown quickly. With facilities in Canada, USA and China, Sinobec can efficiently supply a breadth of aluminum products to customers in various industries including: aviation, automobile, marine, construction, and green energy. 
 				</p>
 				<!-- <div class="mid-inner-info">
 					<div class="col-md-6 mid-inner-sec one">
@@ -239,7 +238,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="w3_agileits_banner_bottom_pos_grid two">
 						<div class="col-xs-3 wthree_banner_bottom_grid_left">
 							<div class="agile_banner_bottom_grid_left_grid hvr-radial-out">
-								<span class="fa fa-map-o" aria-hidden="true"></span>
+								<span><img src="../images/svg/supply.png" alt=""></span>
 							</div>
 						</div>
 						<div class="col-xs-9 wthree_banner_bottom_grid_right">
@@ -263,7 +262,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>
 						<div class="col-xs-9 wthree_banner_bottom_grid_right">
 							<h4 class="sub_service_agileits">Supply Chain Service</h4>
-							<p>Dedicated and tailored supply chain service to fit into your business. Diagnose your needs and enhance your supply chain. </p>
+							<p>Dedicated and tailored supply chain service to fit your business. Diagnose your needs and enhance your supply chain. </p>
 							<!-- <div class="agileits-button two service">
 								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
 							</div> -->
@@ -282,7 +281,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>
 						<div class="col-xs-9 wthree_banner_bottom_grid_right">
 							<h4 class="sub_service_agileits">Consulting Service</h4>
-							<p>Professional elite technology and management team provides customers unique visions.</p>
+							<p>A professional management team ready to assist you and your unique visions.</p>
 							<!-- <div class="agileits-button two service">
 								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
 							</div> -->
@@ -301,7 +300,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>
 						<div class="col-xs-9 wthree_banner_bottom_grid_right">
 							<h4 class="sub_service_agileits">Turn Key solution</h4>
-							<p>Integrate high quality material, top notch service and professional project management. Our Cross-functional team consists of sourcing; purchasing; Quality & logistics.</p>
+							<p>Our experienced team consisting of sourcing, purchasing, quality & logistics is ready and capable of integrating high quality material, services and professional project management into your business.</p>
 							<!-- <div class="agileits-button two service">
 								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
 							</div> -->

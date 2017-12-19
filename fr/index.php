@@ -145,7 +145,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="agile_wthree_inner_grids">
 
 			<div class="col-md-6 about_agileinfo_grid_imgs">
-				<img src="../images/about.jpg" alt="" />
+				<img src="../images/aboutus.jpg" alt="" />
 			</div>
 
 			<div class="col-md-6 about_agileinfo">

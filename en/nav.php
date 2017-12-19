@@ -10,7 +10,7 @@
 					<span class="icon-bar"></span>
 				</button>
 				<h1>
-					<a class="navbar-brand" href="/023/en/index.php"><img src="../images/logo_50.png" alt=""><span>Sinobectrading</span></a>
+					<a class="navbar-brand" href="/023/en/index.php"><img src="../images/logo.png" alt=""></a>
 				</h1>
 
 			</div>
@@ -37,6 +37,7 @@
 						<?php if (trim($_SERVER['PHP_SELF']) == "/023/en/products.php") {
                               echo 'class="active"';} ?>
 						><a href="products.php" class="effect-3">Products</a></li>
+						
 						<!-- <li class="dropdown">
 							<a href="#" class="dropdown-toggle effect-3" data-toggle="dropdown">Short Codes <b class="caret"></b></a>
 							<ul class="dropdown-menu agile_short_dropdown">
@@ -44,10 +45,7 @@
 								<li><a href="typography.php">Typography</a></li>
 							</ul>
 						</li> -->
-						<li
-						<?php if (trim($_SERVER['PHP_SELF']) == "/023/en/service.php") {
-                              echo 'class="active"';} ?>
-						><a href="service.php" class="effect-3">Service</a></li>
+						 
 						<li
 						<?php if (trim($_SERVER['PHP_SELF']) == "/023/en/contact.php") {
                               echo 'class="active"';} ?>

@@ -38,10 +38,12 @@
 						</div>
 						<div class="col-md-6 tab-info">
 							<h4>Billet and Ingot </h4>
-							<p>Billet and ingot: Ingots is the raw material for aluminum plates and sheets. Billets are the raw material for aluminum extrusions. Sinobec are working with their strategy partners providing high quality billet and ingot for aluminum extrusion and plates manufacturers. Hence Sinobec gain more control on cost and quality of mid and downstream products.</p>
+							<p>Ingots are the raw material for aluminum plates and sheets.
+								Billets are the raw material for aluminum extrusions.
+								Sinobec works closely with their strategic partners in providing high quality billet and ingot for aluminum extrusion and plate manufacturers. Sinobec looks to be cost effective and while ensuring quality products.</p>
 						</div>
 						<div class="agileits-button two">
-							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">Read More »</a>
+							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="raw.php" role="button">More Pictures »</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -50,18 +52,27 @@
 
 						<div class="col-md-6 tab-info">
 							<h4>Coil, sheet, plate & extrusions </h4>
-							<p>Sinobec provides both standard and customized extrusion (fabricated, painted, anodized & bright dipped). 
-							We stock a series of standard extrusions in our warehouses. By keeping standard extrusions in inventory, we provide JIT supply to our North America and Central American customers.
-							 Some of the products we carry in stock Are:
+							<p><b><i>Looking for standard or customized extrusions? </i></b></p>
+							<p><b><i>Sinobec can assist you. Need your customized extrusions fabricated, painted, anodized or bright dipped? </i></b>
+							</p>
+							<p>We stock a series of standard extrusions in our warehouses creating a just in time supply chain for our North America and Central American customers.
+							 Some of the products we carry in stock include:
 							</p>
 							<p>
 								 Some of the products we carry in stock Are:
-								<li>Angles; Rectangular bar; Channels; Round tubes; Square Tubes; I-beams; Pipes; Square Bars; rods </li>
+								<li>Angles</li>
+								<li>Bars (rectangular and square)</li>
+								<li>Channels</li>
+								<li>Tubes (round and square)</li>
+								<li>Beams</li>
+								<li>Pipes</li>
+								<li>Rods</li>
+ 
 							</p>
-							<p>Furthermore, Sinobec's mills in far-east provide customized extrusions with reasonable lead time. We provide package of service, including die design, die making, logistics, customs clearance, storage and distribution.</p>
+							<p>Sinobec also works closely with various mills to provide customized extrusions with reasonable lead time. We provide additional services, including die design, die making, logistics, customs clearance, storage and distribution.</p>
 							</p>
 							<div class="agileits-button two">
-								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="mid.php" role="button">Read More »</a>
+								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="mid.php" role="button">More Pictures »</a>
 							</div>
 						</div>
 						<div class="col-md-6 tab-info-img">
@@ -76,13 +87,16 @@
 						</div>
 						<div class="col-md-6 tab-info">
 							<h4>Stainless steel</h4>
-							<p>Sinobec distributes coils, sheets, plates, pipes & tubes in various alloys (200/300/400 series)</p>
-							<p>We stock a series of flat rolled products in our warehouses. By keeping flat rolled inventory in our warehouses, we provide JIT supply to our North America and Central American customers.
-							 Some of the products we carry in stock Are:  coils, sheets in 304 2B / 304 #4 / 316 2B / 316 #4 / 430 2B
+							<p>Sinobec distributes coils, sheets, plates, pipes & tubes in various alloys (200/300/400 series).</p>
+							<p>Readily available stock includes a series of flat rolled products allowing our customers to have the products they need when they need them.</p>
+							<p>
+							Some of the products we carry in stock include: 
+								<li>coils</li>
+								<li>Sheets in 304 2B / 304 #4 / 316 2B / 316 #4 / 430 2B</li>
 							</p>
 						</div>
 						<div class="agileits-button two">
-							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="steel.php" role="button">Read More »</a>
+							<a class="btn btn-primary btn-lg hvr-underline-from-left" href="steel.php" role="button">More Pictures »</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -94,7 +108,7 @@
 								dapibus efficitur in, auctor eget elit. Lorem ipsum dolor sit amet fusce eget erat nunc. Sed fringilla sem vitae
 								mi interdum commodo.</p>
 							<div class="agileits-button two">
-								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="finished.php" role="button">Read More »</a>
+								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="finished.php" role="button">More Pictures »</a>
 							</div>
 						</div>
 

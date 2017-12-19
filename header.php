@@ -1,3 +1,7 @@
+<?php
+// Starting session
+session_start();
+?>
 <title>Sinobec Trading</title>
 <!-- custom-theme -->
 <meta name="viewport" content="width=device-width, initial-scale=1">

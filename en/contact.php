@@ -26,7 +26,7 @@
 			 
 			<div class="contact-form agile_inner_grids">
 				<div class="wthree_head_section">
-					<h3 class="w3l_header w3_agileits_header">Our <span>Location </span></h3>
+					<h3 class="w3l_header w3_agileits_header">Our <span>Locations </span></h3>
 				</div>
 				<div class="clearfix"> </div>
 				<div class="addr clearfix">
@@ -40,7 +40,7 @@
 						</ul>
 					</div>
 					<div class="col-lg-6 col-xs-12">
-						<h5>Toronto <span>	Warehouse</span></h5>
+						<h5>Toronto <span>	BRANCH</span></h5>
 						<ul>
 							<li>Unit 2, 29 Killaloe Rd, Vaughan, Canada L4K 2A8</li>
 							<li>+1 (905) 660 8870</li>
@@ -51,7 +51,7 @@
 				<div class="addr clearfix">
 					<h4>China</h4>
 					<div class="col-lg-4 col-xs-12">
-						<h5>Guangzhou<span>	SALES OFFICE </span></h5>
+						<h5>Guangzhou<span>	BRANCH</span></h5>
 						<ul>
 							<li>Room 811, Xing Pu Building A, Guan Hong Rd 12#,Science Avenue, Science City, Guangzhou, China</li>
 							<li>+86 (20) 6665 0312</li>
@@ -59,7 +59,7 @@
 						</ul>
 					</div>
 					<div class="col-lg-4 col-xs-12">
-						<h5>Xi'An <span> OPERATION</span></h5>
+						<h5>Xi'An <span> BRANCH</span></h5>
 						<ul>
 							<li>#1501, Block A, Wangzuo International Building, No.1 Tangyan Road, Xi'an Hi-tech Development Zone, Xi'an Shaanxi Province, China</li>
 							<li> +86 (29) 8831 1329</li>
@@ -67,7 +67,7 @@
 						</ul>
 					</div>
 					<div class="col-lg-4 col-xs-12">
-						<h5>Shanghai<span>	SALES</span></h5>
+						<h5>Shanghai<span> BRANCH</span></h5>
 						<ul>
 							<!-- <li>Room 811, Xing Pu Building A, Guan Hong Rd 12#, </li>
 							<li>Science Avenue, Science City, Guangzhou, China</li> -->

@@ -24,9 +24,8 @@
 			<h3 class="w3l_header w3_agileits_header">About <span> Us</span></h3>
 		</div>
 
-		<p>Sinobec Trading started in 2002 and is a large sized Master Distributor of non-ferrous products (Aluminum & Stainless) in all shapes & forms.  We pride ourselves on Innovation, efficiency and execution and being able to provide our customers with quality products at very competitive prices.  
-We currently have 3 strategically located depots in Canada & US and carry standard stock in Aluminum coils, sheets, plates & extrusions as well as Stainless steel sheets.
-</p>
+		<p>Sinobec Trading, established in 2002, is a large sized Master Distributor of non-ferrous products including aluminum & stainless steel, in all shapes & forms. We pride ourselves on innovation, efficiency and management resulting in providing our customers with quality products at competitive prices. We currently have three strategically located facilities in Canada & the USA which carry standard stock of aluminum coils, sheets, plates, extrusions and stainless steel sheets.
+		</p>
 		<!-- <div class="agileits-button two">
 			<a class="btn btn-primary btn-lg hvr-underline-from-left" href="single.html" role="button">Read More »</a>
 		</div> -->
@@ -49,7 +48,7 @@ We currently have 3 strategically located depots in Canada & US and carry standa
 					</div>
 					<div class="col-xs-9 wthree_banner_bottom_grid_right">
 						<h4>Our Vision</h4>
-						<p>Sinobec Trading strives to be a market leader in Master distribution by enhancing our strategic relationship with our customers, suppliers and employees. </p>
+						<p>To be the market leader by continually growing our business and further enhancing our strategic relationships with our customers, vendor partners and employees.</p>
 
 					</div>
 					<div class="clearfix"> </div>
@@ -66,7 +65,7 @@ We currently have 3 strategically located depots in Canada & US and carry standa
 					</div>
 					<div class="col-xs-9 wthree_banner_bottom_grid_right">
 						<h4>Our Value </h4>
-						<p>Sinobec Trading seeks to create value to our customers and reduce total cost of ownership.  We value integrity, safety & mutual growth and win-win attitude. </p>
+						<p>Excellence via integrity and respect for a win-win business with our customers, vendor partners and employees. </p>
 
 					</div>
 					<div class="clearfix"> </div>
@@ -83,7 +82,7 @@ We currently have 3 strategically located depots in Canada & US and carry standa
 					</div>
 					<div class="col-xs-9 wthree_banner_bottom_grid_right">
 						<h4>Our business Goal </h4>
-						<p>To strive to be an integral part of our customer’s supply chain and grow to be one of the largest North American Master Distributors.</p>
+						<p>To be an integral part of our customer’s supply chain and one of the largest North American Master Distributors in our field.</p>
 
 					</div>
 					<div class="clearfix"> </div>
@@ -108,82 +107,82 @@ We currently have 3 strategically located depots in Canada & US and carry standa
 				<div class="timeline-item" data-text="Incorporated">
 					<div class="timeline__content"><img class="timeline__img" src="../images/timeline/2002.jpg"/>
 						<h2 class="timeline__content-title">2002</h2>
-						<p class="timeline__content-desc">The company got started in 2002 in a Montreal basement and products were Ore trading. </p>
+						<p class="timeline__content-desc">The company was established in 2002 in a Montreal basement and the first products focused on Ore trading.</p>
 					</div>
 				</div>
 				<div class="timeline-item" data-text="Moved to new place">
 					<div class="timeline__content"><img class="timeline__img" src="../images/timeline/2003.jpg"/>
 						<h2 class="timeline__content-title">2003</h2>
-						<p class="timeline__content-desc">The company got started in 2002 in a Montreal basement and products were Ore trading. </p>
+						<p class="timeline__content-desc">Office and storage facilities established in a Montreal location.</p>
 					</div>
 				</div>
-				<div class="timeline-item" data-text="Entered Aluminum Industry">
+				<div class="timeline-item" data-text="Entered the aluminum industry">
 					<div class="timeline__content"><img class="timeline__img" src="../images/timeline/2005.jpg"/>
 						<h2 class="timeline__content-title">2005</h2>
-						<p class="timeline__content-desc">Sinobec gradually shifted focus from Ore to Aluminum products.</p>
+						<p class="timeline__content-desc">Focus expands from Ore products to Aluminum products.</p>
 					</div>
 				</div>
-				<div class="timeline-item" data-text="Entered Aviation Field">
+				<div class="timeline-item" data-text="Entered aviation field">
 					<div class="timeline__content"><img class="timeline__img" src="../images/timeline/2006.jpg"/>
 						<h2 class="timeline__content-title">2006</h2>
-						<p class="timeline__content-desc">Sinobec started to participate in aviation industry with strategy partners in China.</p>
+						<p class="timeline__content-desc">Strategies developped and expanded with partners in China for participation in the aviation industry.</p>
 					</div>
 				</div>
-				<div class="timeline-item" data-text="First Oversea Office">
+				<div class="timeline-item" data-text="First Overseas office opened">
 					<div class="timeline__content"><img class="timeline__img" src="../images/timeline/2007.jpg"/>
 						<h2 class="timeline__content-title">2007</h2>
-						<p class="timeline__content-desc">The first overseas office was founded in Xi”an China. Sinobec successful offshore to Overseas.</p>
+						<p class="timeline__content-desc">The first overseas office was founded in Xi’an China.</p>
 					</div>
 				</div>
-				<div class="timeline-item" data-text="Entered Construction Field">
+				<div class="timeline-item" data-text="Entered the construction industry">
 					<div class="timeline__content"><img class="timeline__img" src="../images/timeline/2009.jpg"/>
 						<h2 class="timeline__content-title">2009</h2>
-						<p class="timeline__content-desc">Sinobec started explore construction industry market. Since then, construction business became a importation part of Sinobec.</p>
+						<p class="timeline__content-desc">The growing construction industry becomes an important part of Sinobec.</p>
 					</div>
 				</div>
-				<div class="timeline-item" data-text="USA Office">
+				<div class="timeline-item" data-text="Miami office opened">
 					<div class="timeline__content"><img class="timeline__img" src="../images/timeline/2011.jpg"/>
 						<h2 class="timeline__content-title">2011</h2>
-						<p class="timeline__content-desc">Sinobec opened Miami office on 2011 Sinobec sucessfullu landed USA market and are accepted by our USA clients.</p>
+						<p class="timeline__content-desc">To serve the North American clients efficiently, a Miami location is established.</p>
 					</div>
 				</div>
-				<div class="timeline-item" data-text="Enter Solar energy field">
+				<div class="timeline-item" data-text="Entered the Solar Energy market">
 					<div class="timeline__content"><img class="timeline__img" src="../images/timeline/2011-2.jpg"/>
 						<h2 class="timeline__content-title">2011</h2>
-						<p class="timeline__content-desc">With competitive rate and high quality products we became a major supplier of the solar panel in USA and Canadian market. So far we have accomplished many important projects in North America.
+						<p class="timeline__content-desc">Quality products and competitive pricing enables Sinobec to be a major supplier in the solar panel marketplace in both the USA and Canadian markets.
 						</p>
 					</div>
 				</div>
-				<div class="timeline-item" data-text="Guangzhou Office Opened">
+				<div class="timeline-item" data-text="Guangzhou office opened">
 					<div class="timeline__content"><img class="timeline__img" src="../images/timeline/2012_2.jpg"/>
 						<h2 class="timeline__content-title">2012</h2>
-						<p class="timeline__content-desc">Guangzhou is one of the top four cities in China. Successful landing this metropolitan is a major milestone.</p>
+						<p class="timeline__content-desc">Guangzhou is one of the top four cities in China. Establishing a footprint here further enables and efficient supply chain.</p>
 					</div>
 				</div>
-				<div class="timeline-item" data-text="Entered Transportation Field">
+				<div class="timeline-item" data-text="Entered the transportation field">
 					<div class="timeline__content"><img class="timeline__img" src="../images/timeline/2012.jpg"/>
 						<h2 class="timeline__content-title">2012</h2>
-						<p class="timeline__content-desc">Sinobec explored the new territory: Land transportation. Sinobec is the first one to supply high end products from Asia to the truck and oil tank manufacturer in USA.</p>
+						<p class="timeline__content-desc">Sinobec became one of the first to supply high-end products from Asia to the truck and oil tank manufacturing industry in the USA.</p>
 					</div>
 				</div>
-				<div class="timeline-item" data-text="Toronto Office Opened">
+				<div class="timeline-item" data-text="Toronto office opened">
 					<div class="timeline__content"><img class="timeline__img" src="../images/timeline/2014.jpg"/>
 						<h2 class="timeline__content-title">2014</h2>
 						<p class="timeline__content-desc">
-							We opened a new office and warehouse in Toronto, Canada
+							To serve the Canadian market place clients even faster, the Toronto location is established including a warehouse and office space.
 						</p>
 					</div>
 				</div>
-				<div class="timeline-item" data-text="Entered South-Est Asia">
+				<div class="timeline-item" data-text="Entered South-East Asia">
 					<div class="timeline__content"><img class="timeline__img" src="../images/timeline/2015.jpg"/>
 						<h2 class="timeline__content-title">2015</h2>
-						<p class="timeline__content-desc">Invest at Indonesia and Vietnam: To increase our competition, we invested at Indonesia and Vietnam for high-end aluminum products.</p>
+						<p class="timeline__content-desc">Investments in Indonesia and Vietnam were made for high-end aluminum products. Additional sourcing at competitive pricing ensures competitive products for our clients.</p>
 					</div>
 				</div>
-				<div class="timeline-item" data-text="USA Warehouses Opened">
+				<div class="timeline-item" data-text="USA warehouses opened">
 					<div class="timeline__content"><img class="timeline__img" src="../images/timeline/2017.jpg"/>
 						<h2 class="timeline__content-title">2017</h2>
-						<p class="timeline__content-desc">We built two USA warehouse in Chicago and Miami. Sinobec sucessfullu land USA market and are accepted by our USA clients.</p>
+						<p class="timeline__content-desc">Two additional warehouse facilities established in Chicago and Miami to increase the efficiency of the supply chain to our customers.</p>
 					</div>
 				</div>
 

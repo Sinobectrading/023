@@ -11,8 +11,8 @@
 	<div class="agile_inner_breadcrumb">
 
 		<ul class="w3_short">
-			<li><a href="index.php">Home</a><span>|</span></li>
-			<li>Products</li>
+			<li><a href="index.php">ACCUEIL</a><span>|</span></li>
+			<li><a href="products.php">Produts</a></li>
 		</ul>
 	</div>
 </div>
