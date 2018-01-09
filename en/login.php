@@ -3,7 +3,7 @@
 session_start();
 ?>
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 
 <head>
 <?php include_once '../header.php'; ?>
@@ -65,10 +65,19 @@ $(document).ready(function(){
 			dataType: "json",
 			data: $(this).serialize(), // getting filed value in serialize form
 			success: function(dataE){
+					if (dataE.success) {
+						$('#response').html(dataE.message);
+						<?php 
+							$_SESSION["username"] = md5(time()); 
+							$_SESSION['start'] = time(); 
+            				$_SESSION['expire'] = $_SESSION['start'] + (1 * 10);
+						?>
+						$(location).attr('href', 'doc.php')
+					}
+					else{
+						$('#response').html(dataE.message);
+					}
 					console.log(dataE.message);
-					// $('#response').html(dataE.message);
-					<?php $_SESSION["username"] = bin2hex(random_bytes(16)); ?>
-					$(location).attr('href', 'doc.php')
 			},
 			error:function(jrXHR){
 				console.log("Wrong");

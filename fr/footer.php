@@ -55,8 +55,8 @@
 
 
 			<div class="clearfix"> </div>
-				<p class="copyright">© 2017 Sinobec Trading. All Rights Reserved | Design by <a href="https://#/" target="_blank">Sinobec</a></p>
-		</div>
+				<p class="copyright">© 2017 Sinobec Trading. Tous les droits sont réservés | Concu par <a href="https://#/" target="_blank">Sinobec</a> | <?php if(isset($_SESSION["username"]) ) { ?> <a href="logout.php">Connectez - Out</a> <?php } if(!isset($_SESSION["username"]) ) { ?> <a href="login.php">S'identifier</a> <?php } ?> | <a href="privacy.php">Intimité</a></p>
+			</div>
 </div>
 <!-- //footer -->
 

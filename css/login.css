@@ -10,7 +10,50 @@ body {
 	background-attachment: fixed;
 	text-align: center;
 }
-
+.nav-pills   li   a {
+	background: rgba(200,200,200,.3);
+}
+#doccnt .text-center {
+	 padding-left: 1.5em ! important;
+	 padding-bottom: 8px;
+	 padding-top: 15px
+}
+#doccnt .nav-pills   li   a,
+#doccnt .nav-pills li.active  a:hover {
+	color: rgba(220,220,220,.9);
+	text-align: center;
+}
+#doccnt .nav-pills li  a:hover  {
+	color: #337ab7;
+}
+#doccnt h1 {
+	color: #fff;
+}
+ #doccnt .nav-pills li {
+	float: left ;
+	height: 100px;
+	min-height: 100px;
+	display: table
+}
+ #doccnt .nav-pills li * {
+ 	vertical-align: middle;
+ 	display: table-cell;
+  }
+#doccnt .nav-stacked > li {
+	float: left;
+}
+ #doccnt .nav > li > a {
+  
+ }
+ .ajaxtitle {
+ 	line-height: 5;
+ 	text-align: left;
+ 	padding-left: 15px;
+ 	color: #fff
+ }
+ .ajaxtitle a {
+ 	color: #fff
+ }
 body a {
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
@@ -75,7 +118,7 @@ ul.social-icons-agileits-w3layouts li a.fa:hover {
 	color: #fff;
 }
 #doccnt .container {
-	margin-top: 5vh
+	margin-top: 2vh
 }
 #doccnt .well {
 	background: transparent;
@@ -84,102 +127,32 @@ ul.social-icons-agileits-w3layouts li a.fa:hover {
 #doccnt .well a {
 	text-decoration: none;
 	color: #fff;
-	padding: 50px 40px;
+	padding: 30px 50px;
 	margin: 10px;
 	display: inline-block;
 	background: rgba(0,0,0,.5);
+	width: 100%;
+	height: 110px;
+	 
 }
 #doccnt .well a:hover {
 	background: rgba(200,200,200,.3);
 }
-
-
-
-.card {
-/*  width: 100%;
-  height: 100%;
-  position: absolute;*/
-  cursor: pointer;
-  /* Set the transition effects */
-  -webkit-transition: -webkit-transform 0.4s;
-  -moz-transition: -moz-transform 0.4s;
-  -o-transition: -o-transform 0.4s;
-  transition: transform 0.4s;
-  -webkit-transform-style: preserve-3d;
-  -moz-transform-style: preserve-3d;
-  -o-transform-style: preserve-3d;
-  transform-style: preserve-3d;
+ 
+#doccnt .next {
+	font-weight: 700
 }
-
-.card.flipped {
-  -webkit-transform: rotateY( 180deg );
-  -moz-transform: rotateY( 180deg );
-  -o-transform: rotateY( 180deg );
-  transform: rotateY( 180deg );
+.admin-menu {
+	-webkit-transition: -webkit-transform  4s;
+  -moz-transition: -moz-transform  4s;
+  -o-transition: -o-transform  4s;
+  transition: transform  4s;
 }
-
-.card .front,
-.card .back {
-  display: block;
- /* height: 100%;
-  width: 100%;*/
-  /*line-height: 260px;*/
-  color: white;
-  text-align: center;
-/*  font-size: 4em;*/
-  position: absolute;
-  -webkit-backface-visibility: hidden;
-  -moz-backface-visibility: hidden;
-  -o-backface-visibility: hidden;
-  backface-visibility: hidden;
-  }
-
-.well .back .btn {
-	background: rgba(200,200,200,.3);
-	margin: 20px auto
+.second {
+	display: none;
 }
-.well {
-	min-height: 70vh
-}
-.formItem:first-child {
-  margin-top: 20px;
-}
-
-.card .back label {
-  display: inline-block;
-  width: 70px;
-  text-align: left;
-}
-
-.card .front,
-.card .back {
- 	height: 250px;
- 	width: 250px;
-}
-
-.card .back {
-   -webkit-transform: rotateY( 180deg );
-  -moz-transform: rotateY( 180deg );
-  -o-transform: rotateY( 180deg );
-  transform: rotateY( 180deg );
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+  
 
 
 
@@ -586,7 +559,7 @@ input.checkbox:checked:after {
 
 @media(max-width:667px) {
 	.main-w3layouts-form {
-		width: 60%;
+		width: 80%;
 	}
 	h1 {
 		font-size: 45px;
@@ -652,7 +625,7 @@ input.checkbox:checked:after {
 
 @media(max-width:480px) {
 	.main-w3layouts-form {
-		width: 75%;
+		width: 98%;
 	}
 	.main-w3layouts-form {
 		margin: 1em auto 0;
@@ -664,7 +637,7 @@ input.checkbox:checked:after {
 
 @media(max-width:440px) {
 	.main-w3layouts-form {
-		width: 80%;
+		width: 98%;
 		padding: 1.5em 1.5em;
 	}
 }

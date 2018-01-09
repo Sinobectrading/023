@@ -1,5 +1,5 @@
 <?php
 session_start();
-header("Location: /index.php");
+header("Location: /023/en/index.php");
 session_destroy();
 ?>

@@ -104,9 +104,7 @@
 
 						<div class="col-md-6 tab-info">
 							<h4>Finished products</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at placerat ante. Praesent nulla nunc, pretium
-								dapibus efficitur in, auctor eget elit. Lorem ipsum dolor sit amet fusce eget erat nunc. Sed fringilla sem vitae
-								mi interdum commodo.</p>
+							<p>We carry a complete line of railing supplies. Need a railing for a wraparound deck, a balcony, a stairway, or another feature at a home or business? Looking for the elegant look of wrought iron without the maintenance worries? We carry a complete line of railings and supplies. You will love the variety of styles available—and the peace of mind that railings provide.</p>
 							<div class="agileits-button two">
 								<a class="btn btn-primary btn-lg hvr-underline-from-left" href="finished.php" role="button">More Pictures »</a>
 							</div>

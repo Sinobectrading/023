@@ -4051,7 +4051,7 @@ span.simply-word {
 
 @media(max-width:568px) {
     .navbar-brand > img {
-        width: 20%;
+        width: 60%;
         padding-top: 6px;
         padding-right: 0px
     }

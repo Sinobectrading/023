@@ -9,11 +9,8 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<h1>
-					<a class="navbar-brand" href="/023/en/index.php"><img src="../images/logo.png" alt=""></a>
-				</h1>
-
-			</div>
+ 					<a class="navbar-brand" href="/023/en/index.php"><img src="../images/logo.png" alt=""></a>
+ 			</div>
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
 				<nav class="link-effect-2" id="link-effect-2">
