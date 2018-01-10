@@ -29,7 +29,7 @@ body {
 #doccnt h1 {
 	color: #fff;
 }
- #doccnt .nav-pills li {
+#doccnt .nav-pills li {
 	float: left ;
 	height: 100px;
 	min-height: 100px;

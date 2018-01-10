@@ -48,8 +48,8 @@ body {
 				<li class="col-lg-3"><a href="../doc/9179771.php"  ><i class="fa fa-folder-o fa-4x text-center" aria-hidden="true"></i>9179771CanadaINC<br>&nbsp;</a></li>
 				<li class="col-lg-3"><a href="../doc/9184872.php" ><i class="fa fa-folder-o fa-4x text-center" aria-hidden="true"></i>9184872CanadaINC<br>&nbsp;</a></li>
 				<li class="col-lg-3"><a href="../doc/marquis.php"  ><i class="fa fa-folder-o fa-4x text-center" aria-hidden="true"></i>Marquis Metal Material Inc<br>&nbsp;</a></li>
-				 <?php } ?>
 				<li class="col-lg-3"><a href="../doc/misc.php" ><i class="fa fa-folder-o fa-4x text-center" aria-hidden="true"></i>Misc&nbsp;&nbsp;<i class="fa fa-angle-double-right" aria-hidden="true" style="display: inline-block;"></i><br>&nbsp;</a></li>
+				<?php } ?>
 			</ul>
 		</div>
 	</div>	
